@@ -1,0 +1,1501 @@
+id,Region/Country/Area,Year/Date,Percentage of individuals using the Internet,Source,DNS Server,Network Status
+1,Oceania,2020-06-02,56.69,OECD,4.2.2.2,Pending
+2,Africa,2012-05-07,80.77,National Statistical Office,9.9.9.9,Pending
+3,Africa,2003-08-03,95.87,World Bank,8.8.4.4,Active
+4,Oceania,2021-04-21,16.86,National Statistical Office,9.9.9.9,Inactive
+5,Europe,2020-10-01,31.32,International Telecommunication Union (ITU),8.8.4.4,Pending
+6,Asia,2001-06-08,78.57,UNESCO,1.1.1.1,Active
+7,Asia,2004-10-07,71.22,National Statistical Office,4.2.2.2,Pending
+8,Asia,2002-09-07,64.08,International Telecommunication Union (ITU),8.8.8.8,Pending
+9,Oceania,2018-04-27,27.67,UNESCO,4.2.2.2,Pending
+10,Africa,2007-06-25,35.95,OECD,1.1.1.1,Pending
+11,Oceania,2004-10-01,67.96,International Telecommunication Union (ITU),8.8.4.4,Pending
+12,Oceania,2008-03-05,33.16,World Bank,1.1.1.1,Pending
+13,South America,2017-05-26,48.0,National Statistical Office,4.2.2.2,Active
+14,Africa,2005-02-22,44.54,International Telecommunication Union (ITU),9.9.9.9,Inactive
+15,South America,2000-03-01,77.48,UNESCO,8.8.4.4,Pending
+16,North America,2011-04-19,48.7,UNESCO,9.9.9.9,Inactive
+17,Africa,2010-01-06,10.88,World Bank,1.1.1.1,Inactive
+18,Africa,2008-01-05,64.56,National Statistical Office,8.8.8.8,Active
+19,Africa,2023-07-17,8.2,UNESCO,8.8.4.4,Pending
+20,Asia,2003-12-03,28.06,UNESCO,4.2.2.2,Active
+21,Asia,2015-08-25,82.64,UNESCO,9.9.9.9,Active
+22,South America,2011-09-19,89.13,International Telecommunication Union (ITU),1.1.1.1,Inactive
+23,South America,2003-08-17,19.64,International Telecommunication Union (ITU),8.8.4.4,Active
+24,Africa,2007-10-02,73.35,National Statistical Office,8.8.8.8,Active
+25,South America,2023-11-17,62.66,World Bank,8.8.4.4,Inactive
+26,Asia,2009-08-21,72.74,National Statistical Office,8.8.8.8,Active
+27,Oceania,2000-01-16,89.21,World Bank,1.1.1.1,Active
+28,Oceania,2012-07-22,84.96,OECD,9.9.9.9,Active
+29,Oceania,2003-08-23,63.16,UNESCO,8.8.4.4,Active
+30,South America,2014-02-03,81.26,World Bank,8.8.4.4,Inactive
+31,North America,2010-10-05,57.89,UNESCO,9.9.9.9,Active
+32,Asia,2002-03-09,76.92,World Bank,8.8.4.4,Active
+33,North America,2019-11-19,21.28,OECD,8.8.4.4,Inactive
+34,South America,2017-12-11,3.67,World Bank,4.2.2.2,Active
+35,Europe,2012-10-17,26.06,National Statistical Office,8.8.4.4,Pending
+36,Africa,2009-08-17,89.4,International Telecommunication Union (ITU),4.2.2.2,Pending
+37,Asia,2019-07-04,53.97,UNESCO,8.8.4.4,Active
+38,Oceania,2022-02-28,65.39,International Telecommunication Union (ITU),9.9.9.9,Active
+39,North America,2020-11-25,14.86,World Bank,1.1.1.1,Active
+40,Europe,2017-12-28,39.25,National Statistical Office,8.8.4.4,Pending
+41,Europe,2006-07-15,89.14,World Bank,9.9.9.9,Active
+42,Asia,2007-07-11,58.96,OECD,1.1.1.1,Pending
+43,Asia,2014-07-14,85.72,OECD,4.2.2.2,Active
+44,Europe,2023-02-11,13.39,OECD,9.9.9.9,Active
+45,Africa,2013-06-22,50.11,World Bank,8.8.8.8,Inactive
+46,Africa,2008-06-05,9.06,OECD,1.1.1.1,Pending
+47,North America,2021-08-03,36.39,World Bank,1.1.1.1,Active
+48,Africa,2002-02-03,1.06,World Bank,8.8.8.8,Inactive
+49,Europe,2013-02-24,23.89,National Statistical Office,1.1.1.1,Inactive
+50,Europe,2023-06-26,96.4,UNESCO,1.1.1.1,Pending
+51,South America,2004-09-02,98.19,International Telecommunication Union (ITU),8.8.8.8,Pending
+52,Europe,2018-09-18,68.42,UNESCO,9.9.9.9,Active
+53,Africa,2010-11-04,75.72,International Telecommunication Union (ITU),8.8.4.4,Pending
+54,Oceania,2013-06-28,14.04,International Telecommunication Union (ITU),1.1.1.1,Active
+55,North America,2021-07-28,15.92,World Bank,9.9.9.9,Pending
+56,South America,2023-01-10,56.64,OECD,9.9.9.9,Inactive
+57,Africa,2019-05-12,56.58,OECD,8.8.8.8,Inactive
+58,North America,2003-10-17,87.22,OECD,9.9.9.9,Active
+59,Africa,2006-03-22,14.62,UNESCO,8.8.8.8,Active
+60,South America,2015-04-28,73.2,OECD,9.9.9.9,Active
+61,Europe,2003-06-28,93.92,National Statistical Office,8.8.4.4,Active
+62,Oceania,2017-06-04,4.04,World Bank,4.2.2.2,Inactive
+63,South America,2008-10-08,76.15,OECD,9.9.9.9,Inactive
+64,Europe,2013-09-25,23.17,OECD,9.9.9.9,Active
+65,South America,2019-10-22,26.44,OECD,9.9.9.9,Active
+66,Asia,2020-09-01,23.4,UNESCO,8.8.8.8,Inactive
+67,Oceania,2019-11-27,66.86,World Bank,1.1.1.1,Pending
+68,Africa,2022-05-01,51.79,National Statistical Office,8.8.8.8,Inactive
+69,Africa,2005-05-23,79.15,OECD,8.8.4.4,Active
+70,Oceania,2009-06-12,38.81,International Telecommunication Union (ITU),8.8.8.8,Inactive
+71,Asia,2000-03-28,91.79,UNESCO,1.1.1.1,Active
+72,Europe,2004-10-22,88.16,OECD,8.8.4.4,Inactive
+73,Africa,2012-02-05,3.99,OECD,1.1.1.1,Active
+74,Asia,2023-11-01,64.85,UNESCO,1.1.1.1,Active
+75,Africa,2002-12-17,10.32,National Statistical Office,4.2.2.2,Pending
+76,North America,2006-07-14,96.84,International Telecommunication Union (ITU),8.8.4.4,Inactive
+77,Europe,2014-06-06,63.36,International Telecommunication Union (ITU),4.2.2.2,Pending
+78,North America,2011-05-24,27.35,National Statistical Office,4.2.2.2,Pending
+79,Oceania,2010-10-20,74.19,UNESCO,1.1.1.1,Inactive
+80,Europe,2002-01-05,57.86,OECD,4.2.2.2,Active
+81,Asia,2005-10-02,57.02,National Statistical Office,8.8.8.8,Active
+82,Europe,2021-02-09,37.67,UNESCO,4.2.2.2,Active
+83,Europe,2014-11-14,37.85,UNESCO,4.2.2.2,Inactive
+84,Asia,2015-10-15,58.77,UNESCO,1.1.1.1,Inactive
+85,Oceania,2013-05-07,89.82,UNESCO,9.9.9.9,Pending
+86,Europe,2016-02-12,7.78,International Telecommunication Union (ITU),8.8.8.8,Inactive
+87,Oceania,2013-02-10,25.16,UNESCO,1.1.1.1,Active
+88,Oceania,2021-11-19,97.27,National Statistical Office,9.9.9.9,Pending
+89,Oceania,2015-09-22,22.29,OECD,8.8.8.8,Pending
+90,Africa,2009-01-08,40.58,OECD,8.8.4.4,Pending
+91,South America,2012-10-02,81.72,World Bank,8.8.8.8,Active
+92,Oceania,2000-04-10,34.5,National Statistical Office,8.8.4.4,Inactive
+93,Asia,2006-03-25,79.27,World Bank,8.8.8.8,Active
+94,South America,2008-05-11,88.72,National Statistical Office,9.9.9.9,Pending
+95,Oceania,2003-01-16,0.66,UNESCO,8.8.4.4,Inactive
+96,Asia,2023-07-06,88.2,World Bank,4.2.2.2,Pending
+97,Asia,2004-07-18,43.99,UNESCO,8.8.8.8,Pending
+98,North America,2022-04-17,23.0,National Statistical Office,8.8.4.4,Inactive
+99,North America,2017-11-26,51.45,International Telecommunication Union (ITU),1.1.1.1,Pending
+100,Europe,2011-02-13,28.08,International Telecommunication Union (ITU),8.8.8.8,Pending
+101,Oceania,2023-01-14,15.02,International Telecommunication Union (ITU),8.8.8.8,Active
+102,Oceania,2000-08-03,15.74,International Telecommunication Union (ITU),9.9.9.9,Inactive
+103,South America,2010-10-14,60.2,OECD,9.9.9.9,Active
+104,Asia,2018-07-23,81.7,International Telecommunication Union (ITU),9.9.9.9,Pending
+105,Oceania,2020-07-10,66.11,National Statistical Office,8.8.4.4,Pending
+106,Europe,2003-07-01,41.46,International Telecommunication Union (ITU),4.2.2.2,Inactive
+107,Africa,2010-03-26,33.02,OECD,8.8.8.8,Pending
+108,Asia,2019-08-27,11.33,UNESCO,8.8.4.4,Inactive
+109,Africa,2022-06-03,67.52,World Bank,8.8.8.8,Active
+110,Europe,2013-02-08,47.9,UNESCO,4.2.2.2,Inactive
+111,North America,2013-10-13,59.08,UNESCO,9.9.9.9,Active
+112,Europe,2016-02-13,64.73,World Bank,8.8.4.4,Pending
+113,Africa,2009-12-11,41.09,International Telecommunication Union (ITU),4.2.2.2,Pending
+114,Asia,2007-06-25,24.37,International Telecommunication Union (ITU),1.1.1.1,Inactive
+115,South America,2005-02-17,12.79,National Statistical Office,1.1.1.1,Inactive
+116,Oceania,2020-02-17,59.23,International Telecommunication Union (ITU),8.8.8.8,Pending
+117,Europe,2016-04-25,13.47,International Telecommunication Union (ITU),8.8.4.4,Pending
+118,Asia,2011-06-24,51.26,National Statistical Office,8.8.4.4,Pending
+119,Oceania,2020-03-08,89.08,World Bank,8.8.8.8,Active
+120,North America,2003-03-09,14.69,National Statistical Office,8.8.8.8,Pending
+121,North America,2006-03-20,16.63,International Telecommunication Union (ITU),4.2.2.2,Pending
+122,Oceania,2004-11-03,92.24,International Telecommunication Union (ITU),4.2.2.2,Pending
+123,North America,2005-11-16,51.66,International Telecommunication Union (ITU),9.9.9.9,Active
+124,Asia,2014-10-25,40.55,National Statistical Office,8.8.8.8,Active
+125,Europe,2018-08-22,96.92,World Bank,9.9.9.9,Active
+126,Asia,2018-11-21,63.76,OECD,8.8.4.4,Pending
+127,Asia,2019-06-28,87.85,National Statistical Office,1.1.1.1,Active
+128,Oceania,2020-06-05,72.8,World Bank,1.1.1.1,Inactive
+129,South America,2014-02-16,82.13,International Telecommunication Union (ITU),9.9.9.9,Active
+130,South America,2014-11-10,94.73,World Bank,8.8.8.8,Pending
+131,Europe,2008-10-02,21.66,UNESCO,8.8.8.8,Inactive
+132,Oceania,2011-09-03,60.65,UNESCO,1.1.1.1,Active
+133,South America,2009-08-15,47.14,OECD,1.1.1.1,Pending
+134,North America,2001-01-12,48.17,International Telecommunication Union (ITU),9.9.9.9,Active
+135,South America,2009-02-21,21.94,OECD,9.9.9.9,Active
+136,North America,2002-10-20,41.08,UNESCO,8.8.4.4,Active
+137,Europe,2016-07-15,14.27,OECD,1.1.1.1,Inactive
+138,Asia,2018-09-26,58.26,UNESCO,8.8.8.8,Inactive
+139,Asia,2023-01-15,76.75,UNESCO,8.8.4.4,Inactive
+140,South America,2018-11-07,62.32,World Bank,9.9.9.9,Active
+141,North America,2010-10-16,51.08,International Telecommunication Union (ITU),9.9.9.9,Active
+142,Africa,2016-03-02,16.77,UNESCO,8.8.4.4,Inactive
+143,Africa,2014-02-26,68.56,International Telecommunication Union (ITU),4.2.2.2,Active
+144,Africa,2010-12-03,92.24,OECD,1.1.1.1,Pending
+145,Asia,2016-11-06,59.65,OECD,8.8.4.4,Active
+146,Oceania,2001-04-23,6.88,UNESCO,8.8.8.8,Active
+147,Asia,2014-08-17,37.82,International Telecommunication Union (ITU),8.8.4.4,Pending
+148,Oceania,2016-10-06,13.22,UNESCO,4.2.2.2,Pending
+149,North America,2011-06-10,1.66,UNESCO,1.1.1.1,Inactive
+150,South America,2012-07-25,52.27,World Bank,9.9.9.9,Pending
+151,Africa,2010-11-20,90.93,OECD,9.9.9.9,Inactive
+152,North America,2001-11-21,68.44,International Telecommunication Union (ITU),9.9.9.9,Active
+153,North America,2010-02-11,82.65,OECD,9.9.9.9,Inactive
+154,South America,2003-09-22,60.55,World Bank,8.8.4.4,Inactive
+155,North America,2012-05-09,17.74,National Statistical Office,4.2.2.2,Pending
+156,South America,2023-11-20,90.16,OECD,4.2.2.2,Active
+157,Europe,2004-06-03,59.98,World Bank,9.9.9.9,Pending
+158,South America,2018-11-05,87.78,OECD,8.8.8.8,Inactive
+159,Africa,2011-05-21,53.14,International Telecommunication Union (ITU),9.9.9.9,Pending
+160,Oceania,2022-11-13,75.24,World Bank,8.8.4.4,Inactive
+161,Oceania,2004-10-23,9.32,National Statistical Office,4.2.2.2,Active
+162,Africa,2002-05-18,65.94,OECD,1.1.1.1,Active
+163,Oceania,2012-11-26,90.2,World Bank,9.9.9.9,Pending
+164,South America,2010-03-22,53.93,National Statistical Office,9.9.9.9,Inactive
+165,Europe,2022-12-22,0.12,International Telecommunication Union (ITU),8.8.8.8,Inactive
+166,Oceania,2016-02-21,93.77,OECD,8.8.8.8,Active
+167,Europe,2021-07-17,67.86,UNESCO,4.2.2.2,Active
+168,Africa,2011-01-12,43.15,International Telecommunication Union (ITU),8.8.4.4,Pending
+169,Europe,2009-03-07,42.07,International Telecommunication Union (ITU),9.9.9.9,Active
+170,North America,2010-08-07,87.48,International Telecommunication Union (ITU),1.1.1.1,Pending
+171,Asia,2007-03-05,69.76,International Telecommunication Union (ITU),1.1.1.1,Active
+172,North America,2002-05-28,42.9,National Statistical Office,9.9.9.9,Pending
+173,Africa,2003-09-25,93.84,UNESCO,4.2.2.2,Pending
+174,Oceania,2017-12-17,48.21,OECD,4.2.2.2,Pending
+175,Oceania,2001-11-11,76.87,International Telecommunication Union (ITU),8.8.8.8,Active
+176,Europe,2019-03-20,35.05,OECD,8.8.4.4,Pending
+177,South America,2012-03-06,80.46,World Bank,9.9.9.9,Inactive
+178,Asia,2005-12-25,90.79,International Telecommunication Union (ITU),9.9.9.9,Pending
+179,South America,2019-03-24,83.72,International Telecommunication Union (ITU),8.8.8.8,Inactive
+180,Africa,2014-01-14,57.61,OECD,9.9.9.9,Active
+181,Oceania,2011-11-24,42.55,UNESCO,8.8.4.4,Inactive
+182,Europe,2007-08-20,25.45,World Bank,1.1.1.1,Pending
+183,Oceania,2009-12-26,76.59,UNESCO,1.1.1.1,Active
+184,South America,2014-04-18,91.01,OECD,8.8.4.4,Active
+185,South America,2007-05-26,8.38,National Statistical Office,1.1.1.1,Inactive
+186,Asia,2015-04-12,59.83,International Telecommunication Union (ITU),4.2.2.2,Active
+187,Asia,2021-10-15,54.37,National Statistical Office,9.9.9.9,Active
+188,Europe,2014-05-25,25.78,OECD,8.8.4.4,Active
+189,Asia,2012-09-17,0.55,OECD,4.2.2.2,Pending
+190,South America,2013-03-27,74.36,OECD,8.8.8.8,Active
+191,South America,2006-10-05,0.71,OECD,4.2.2.2,Active
+192,Africa,2008-01-21,52.25,International Telecommunication Union (ITU),8.8.8.8,Active
+193,South America,2015-06-18,51.98,National Statistical Office,8.8.8.8,Active
+194,Europe,2003-12-28,37.5,World Bank,4.2.2.2,Active
+195,North America,2016-02-10,20.54,International Telecommunication Union (ITU),8.8.8.8,Pending
+196,Africa,2002-03-09,80.43,OECD,4.2.2.2,Pending
+197,Africa,2014-09-05,40.88,OECD,9.9.9.9,Active
+198,Europe,2013-02-08,10.66,International Telecommunication Union (ITU),9.9.9.9,Active
+199,Europe,2014-06-01,42.61,National Statistical Office,8.8.8.8,Pending
+200,Asia,2013-01-13,58.54,National Statistical Office,9.9.9.9,Active
+201,Africa,2016-06-08,26.13,UNESCO,4.2.2.2,Inactive
+202,Asia,2012-02-12,53.61,UNESCO,8.8.4.4,Pending
+203,South America,2007-01-11,56.47,UNESCO,8.8.4.4,Inactive
+204,Africa,2003-12-21,61.19,OECD,8.8.4.4,Inactive
+205,Africa,2010-03-05,99.18,International Telecommunication Union (ITU),4.2.2.2,Active
+206,Oceania,2001-05-27,39.75,International Telecommunication Union (ITU),8.8.8.8,Pending
+207,North America,2015-12-27,20.37,UNESCO,4.2.2.2,Active
+208,Africa,2004-12-16,55.21,National Statistical Office,8.8.8.8,Active
+209,South America,2014-10-01,55.76,UNESCO,8.8.8.8,Inactive
+210,Asia,2002-01-09,17.87,International Telecommunication Union (ITU),9.9.9.9,Active
+211,Asia,2006-03-18,55.91,OECD,1.1.1.1,Pending
+212,Oceania,2023-10-17,48.38,UNESCO,1.1.1.1,Active
+213,North America,2013-02-25,98.85,World Bank,9.9.9.9,Inactive
+214,South America,2009-04-10,57.77,World Bank,8.8.8.8,Inactive
+215,Asia,2003-01-08,77.42,National Statistical Office,8.8.8.8,Pending
+216,Europe,2013-11-26,39.81,International Telecommunication Union (ITU),9.9.9.9,Inactive
+217,South America,2019-08-03,13.81,OECD,8.8.4.4,Pending
+218,South America,2003-08-20,86.38,World Bank,8.8.4.4,Active
+219,North America,2017-01-21,11.91,UNESCO,4.2.2.2,Inactive
+220,Asia,2016-10-08,22.98,OECD,9.9.9.9,Inactive
+221,South America,2022-03-10,78.31,International Telecommunication Union (ITU),9.9.9.9,Active
+222,Oceania,2013-01-20,94.92,UNESCO,4.2.2.2,Inactive
+223,Oceania,2011-04-19,10.03,OECD,8.8.4.4,Inactive
+224,Asia,2013-03-22,50.83,International Telecommunication Union (ITU),8.8.4.4,Inactive
+225,Oceania,2021-02-17,78.61,OECD,1.1.1.1,Active
+226,Europe,2011-02-17,80.09,World Bank,1.1.1.1,Inactive
+227,North America,2017-09-26,61.4,World Bank,1.1.1.1,Inactive
+228,Oceania,2016-09-01,68.46,International Telecommunication Union (ITU),8.8.8.8,Inactive
+229,Oceania,2012-08-02,5.21,World Bank,4.2.2.2,Pending
+230,Europe,2020-07-12,38.91,International Telecommunication Union (ITU),8.8.4.4,Pending
+231,North America,2008-12-01,63.59,National Statistical Office,8.8.8.8,Pending
+232,South America,2011-02-12,80.44,World Bank,9.9.9.9,Inactive
+233,North America,2007-12-22,82.33,OECD,4.2.2.2,Active
+234,Africa,2020-02-25,47.17,OECD,8.8.8.8,Inactive
+235,Asia,2018-12-25,60.02,International Telecommunication Union (ITU),8.8.8.8,Active
+236,Asia,2010-03-02,8.81,National Statistical Office,9.9.9.9,Inactive
+237,Africa,2011-09-11,26.31,UNESCO,8.8.8.8,Inactive
+238,Europe,2020-03-27,37.08,OECD,8.8.8.8,Active
+239,Africa,2021-08-23,60.9,National Statistical Office,1.1.1.1,Inactive
+240,South America,2015-11-06,72.45,OECD,9.9.9.9,Pending
+241,South America,2004-02-23,93.07,International Telecommunication Union (ITU),9.9.9.9,Pending
+242,Asia,2014-01-10,40.06,International Telecommunication Union (ITU),9.9.9.9,Active
+243,South America,2006-01-26,65.62,UNESCO,4.2.2.2,Pending
+244,Asia,2006-01-11,28.65,International Telecommunication Union (ITU),9.9.9.9,Pending
+245,Africa,2009-09-13,96.35,UNESCO,8.8.4.4,Active
+246,Africa,2017-08-09,5.75,International Telecommunication Union (ITU),4.2.2.2,Inactive
+247,Oceania,2001-11-07,77.36,OECD,4.2.2.2,Inactive
+248,Oceania,2009-06-28,17.53,International Telecommunication Union (ITU),8.8.4.4,Inactive
+249,Africa,2001-11-11,49.44,World Bank,9.9.9.9,Inactive
+250,Asia,2008-02-26,1.07,National Statistical Office,8.8.4.4,Inactive
+251,Africa,2011-07-13,85.06,OECD,8.8.8.8,Inactive
+252,Africa,2023-08-13,93.08,National Statistical Office,1.1.1.1,Inactive
+253,Europe,2010-03-16,51.82,World Bank,1.1.1.1,Pending
+254,Africa,2022-08-12,19.47,National Statistical Office,8.8.8.8,Pending
+255,South America,2016-05-26,78.4,World Bank,1.1.1.1,Inactive
+256,Asia,2002-12-14,51.05,International Telecommunication Union (ITU),8.8.8.8,Active
+257,Europe,2002-07-20,69.84,International Telecommunication Union (ITU),8.8.8.8,Inactive
+258,Oceania,2005-09-10,61.52,World Bank,1.1.1.1,Active
+259,North America,2010-02-03,67.4,OECD,8.8.8.8,Pending
+260,Asia,2010-11-10,35.97,International Telecommunication Union (ITU),1.1.1.1,Inactive
+261,South America,2009-08-20,65.5,OECD,9.9.9.9,Active
+262,Asia,2022-07-06,97.56,National Statistical Office,1.1.1.1,Active
+263,Oceania,2022-08-12,8.68,International Telecommunication Union (ITU),1.1.1.1,Active
+264,South America,2014-01-24,27.59,World Bank,9.9.9.9,Active
+265,South America,2011-10-14,39.94,World Bank,4.2.2.2,Active
+266,North America,2008-11-26,66.97,International Telecommunication Union (ITU),1.1.1.1,Pending
+267,Asia,2001-02-22,40.55,World Bank,8.8.8.8,Pending
+268,North America,2020-07-12,20.03,International Telecommunication Union (ITU),8.8.4.4,Pending
+269,North America,2016-12-22,1.54,UNESCO,9.9.9.9,Inactive
+270,Asia,2005-01-05,70.36,International Telecommunication Union (ITU),1.1.1.1,Inactive
+271,Africa,2019-11-26,91.92,OECD,9.9.9.9,Inactive
+272,Africa,2014-01-05,54.96,National Statistical Office,9.9.9.9,Inactive
+273,Oceania,2002-04-25,72.61,World Bank,8.8.8.8,Inactive
+274,North America,2020-06-12,55.91,National Statistical Office,8.8.8.8,Pending
+275,Europe,2012-10-02,58.29,International Telecommunication Union (ITU),1.1.1.1,Inactive
+276,North America,2019-03-22,34.75,International Telecommunication Union (ITU),1.1.1.1,Inactive
+277,North America,2014-06-12,81.55,International Telecommunication Union (ITU),9.9.9.9,Inactive
+278,North America,2014-02-19,22.63,OECD,9.9.9.9,Inactive
+279,Oceania,2004-09-12,96.31,National Statistical Office,9.9.9.9,Pending
+280,Africa,2012-06-21,45.48,National Statistical Office,8.8.8.8,Pending
+281,Oceania,2008-04-04,40.4,World Bank,9.9.9.9,Active
+282,Oceania,2000-12-06,0.47,International Telecommunication Union (ITU),4.2.2.2,Inactive
+283,Oceania,2015-09-13,17.5,World Bank,1.1.1.1,Active
+284,Africa,2017-02-09,50.62,OECD,1.1.1.1,Active
+285,Africa,2008-12-15,55.86,UNESCO,8.8.4.4,Inactive
+286,North America,2006-10-10,50.32,OECD,4.2.2.2,Pending
+287,Oceania,2022-08-07,34.0,UNESCO,9.9.9.9,Active
+288,Europe,2003-03-28,11.7,International Telecommunication Union (ITU),8.8.8.8,Active
+289,Africa,2002-08-06,51.33,National Statistical Office,8.8.4.4,Inactive
+290,Asia,2022-08-03,25.77,National Statistical Office,8.8.8.8,Inactive
+291,Asia,2021-06-22,53.79,World Bank,8.8.8.8,Pending
+292,Asia,2011-12-03,79.34,UNESCO,9.9.9.9,Inactive
+293,South America,2017-09-10,25.01,World Bank,9.9.9.9,Pending
+294,North America,2009-03-23,44.28,International Telecommunication Union (ITU),9.9.9.9,Pending
+295,Asia,2022-12-21,37.71,National Statistical Office,4.2.2.2,Inactive
+296,North America,2005-06-17,48.36,World Bank,4.2.2.2,Pending
+297,Asia,2007-02-07,24.33,UNESCO,4.2.2.2,Pending
+298,Europe,2004-04-26,33.97,International Telecommunication Union (ITU),8.8.4.4,Inactive
+299,North America,2015-01-12,77.56,International Telecommunication Union (ITU),8.8.8.8,Pending
+300,Asia,2017-10-12,68.16,UNESCO,9.9.9.9,Active
+301,Africa,2014-09-05,89.65,World Bank,9.9.9.9,Pending
+302,North America,2019-02-03,86.2,OECD,9.9.9.9,Inactive
+303,South America,2009-07-23,48.2,World Bank,4.2.2.2,Inactive
+304,Africa,2023-08-17,25.78,UNESCO,4.2.2.2,Pending
+305,Africa,2013-07-27,38.27,National Statistical Office,4.2.2.2,Active
+306,Oceania,2018-02-05,78.87,World Bank,9.9.9.9,Active
+307,South America,2010-11-03,22.04,OECD,1.1.1.1,Inactive
+308,Africa,2014-08-22,70.12,World Bank,8.8.8.8,Active
+309,Africa,2016-06-05,80.02,National Statistical Office,4.2.2.2,Inactive
+310,Asia,2017-11-19,41.24,International Telecommunication Union (ITU),8.8.8.8,Pending
+311,Asia,2005-03-14,35.31,World Bank,9.9.9.9,Pending
+312,North America,2016-01-27,53.57,International Telecommunication Union (ITU),4.2.2.2,Pending
+313,North America,2003-09-05,70.08,National Statistical Office,8.8.4.4,Active
+314,North America,2009-03-06,26.33,OECD,4.2.2.2,Pending
+315,Asia,2010-12-08,28.73,World Bank,8.8.8.8,Pending
+316,North America,2011-09-10,39.89,International Telecommunication Union (ITU),8.8.4.4,Pending
+317,Africa,2002-05-07,74.88,OECD,9.9.9.9,Active
+318,Asia,2020-09-09,34.2,International Telecommunication Union (ITU),9.9.9.9,Inactive
+319,North America,2004-11-10,55.46,International Telecommunication Union (ITU),8.8.8.8,Pending
+320,Africa,2019-09-03,17.85,International Telecommunication Union (ITU),9.9.9.9,Inactive
+321,North America,2016-11-06,31.39,World Bank,4.2.2.2,Pending
+322,Europe,2018-10-05,21.86,International Telecommunication Union (ITU),8.8.4.4,Active
+323,North America,2005-11-20,57.37,National Statistical Office,9.9.9.9,Inactive
+324,Europe,2023-10-11,18.28,UNESCO,9.9.9.9,Active
+325,North America,2018-01-27,74.62,OECD,8.8.8.8,Pending
+326,Oceania,2000-02-02,93.03,OECD,1.1.1.1,Pending
+327,Oceania,2020-10-09,19.02,World Bank,8.8.4.4,Pending
+328,South America,2020-04-25,73.71,World Bank,1.1.1.1,Active
+329,Oceania,2018-07-20,23.49,World Bank,9.9.9.9,Active
+330,Oceania,2020-01-16,24.21,UNESCO,8.8.4.4,Active
+331,North America,2020-09-10,26.54,National Statistical Office,9.9.9.9,Active
+332,Asia,2020-05-16,22.92,OECD,1.1.1.1,Pending
+333,Asia,2007-11-13,83.49,OECD,4.2.2.2,Pending
+334,Europe,2009-08-03,83.63,World Bank,1.1.1.1,Inactive
+335,Asia,2022-01-06,35.6,World Bank,4.2.2.2,Inactive
+336,Africa,2014-07-16,77.89,National Statistical Office,8.8.4.4,Pending
+337,South America,2014-04-11,11.99,International Telecommunication Union (ITU),4.2.2.2,Pending
+338,Oceania,2019-03-11,7.85,National Statistical Office,9.9.9.9,Active
+339,South America,2022-06-24,95.58,World Bank,1.1.1.1,Pending
+340,Africa,2011-07-05,49.27,OECD,8.8.4.4,Active
+341,Oceania,2011-09-18,0.66,National Statistical Office,9.9.9.9,Inactive
+342,Europe,2003-06-08,85.71,International Telecommunication Union (ITU),9.9.9.9,Active
+343,Africa,2014-02-09,95.8,UNESCO,8.8.4.4,Inactive
+344,Africa,2014-04-05,84.8,UNESCO,9.9.9.9,Inactive
+345,South America,2003-01-10,37.12,OECD,1.1.1.1,Pending
+346,North America,2012-10-14,31.54,International Telecommunication Union (ITU),4.2.2.2,Inactive
+347,South America,2007-03-27,89.81,National Statistical Office,1.1.1.1,Pending
+348,South America,2010-10-24,88.1,World Bank,8.8.4.4,Pending
+349,Asia,2010-04-25,57.45,World Bank,8.8.8.8,Pending
+350,Africa,2005-08-17,27.47,International Telecommunication Union (ITU),9.9.9.9,Inactive
+351,South America,2014-08-10,18.29,National Statistical Office,1.1.1.1,Pending
+352,Africa,2015-01-03,76.43,International Telecommunication Union (ITU),1.1.1.1,Inactive
+353,Asia,2012-09-15,51.11,National Statistical Office,1.1.1.1,Pending
+354,Africa,2007-04-19,39.79,UNESCO,1.1.1.1,Inactive
+355,South America,2011-01-02,75.02,National Statistical Office,4.2.2.2,Pending
+356,Africa,2009-08-20,12.82,National Statistical Office,9.9.9.9,Active
+357,Oceania,2020-11-16,52.57,World Bank,8.8.8.8,Active
+358,Asia,2009-09-01,42.32,OECD,9.9.9.9,Pending
+359,North America,2003-07-05,93.97,World Bank,9.9.9.9,Pending
+360,Africa,2008-12-12,3.26,UNESCO,8.8.4.4,Inactive
+361,South America,2012-06-02,34.73,International Telecommunication Union (ITU),1.1.1.1,Active
+362,Asia,2012-01-19,86.04,World Bank,1.1.1.1,Inactive
+363,South America,2017-04-12,77.59,International Telecommunication Union (ITU),4.2.2.2,Pending
+364,South America,2017-05-03,45.72,World Bank,8.8.8.8,Active
+365,Africa,2012-09-15,12.04,OECD,8.8.8.8,Pending
+366,South America,2017-05-27,51.82,OECD,8.8.4.4,Inactive
+367,Africa,2019-11-20,31.57,World Bank,8.8.4.4,Pending
+368,North America,2003-03-04,0.84,World Bank,8.8.4.4,Inactive
+369,Oceania,2012-06-26,67.41,International Telecommunication Union (ITU),1.1.1.1,Active
+370,South America,2010-09-12,37.94,International Telecommunication Union (ITU),1.1.1.1,Active
+371,South America,2004-04-20,10.07,UNESCO,4.2.2.2,Inactive
+372,South America,2016-07-17,36.16,UNESCO,8.8.8.8,Active
+373,Europe,2001-01-02,86.18,World Bank,8.8.8.8,Active
+374,Europe,2004-12-11,18.72,OECD,8.8.4.4,Active
+375,Asia,2015-09-15,26.28,UNESCO,9.9.9.9,Pending
+376,Oceania,2004-10-17,26.94,UNESCO,8.8.8.8,Inactive
+377,Oceania,2004-06-20,95.85,National Statistical Office,4.2.2.2,Pending
+378,Europe,2010-03-13,34.31,OECD,1.1.1.1,Inactive
+379,Asia,2019-12-27,18.39,International Telecommunication Union (ITU),8.8.8.8,Pending
+380,Europe,2009-10-11,42.39,International Telecommunication Union (ITU),4.2.2.2,Inactive
+381,North America,2016-09-18,41.91,International Telecommunication Union (ITU),1.1.1.1,Pending
+382,Asia,2015-12-19,75.22,National Statistical Office,9.9.9.9,Inactive
+383,Oceania,2009-08-27,36.51,World Bank,8.8.4.4,Active
+384,Oceania,2000-06-11,40.06,World Bank,8.8.4.4,Active
+385,Europe,2021-02-14,45.07,International Telecommunication Union (ITU),8.8.4.4,Inactive
+386,North America,2018-05-26,57.14,OECD,8.8.8.8,Active
+387,Europe,2023-12-21,97.93,National Statistical Office,4.2.2.2,Pending
+388,Africa,2000-10-16,68.6,International Telecommunication Union (ITU),8.8.4.4,Active
+389,Africa,2008-11-26,81.42,International Telecommunication Union (ITU),1.1.1.1,Active
+390,North America,2018-10-08,72.08,World Bank,4.2.2.2,Inactive
+391,South America,2023-01-19,80.41,OECD,4.2.2.2,Active
+392,South America,2015-03-17,55.53,National Statistical Office,8.8.8.8,Pending
+393,Africa,2020-12-20,85.63,National Statistical Office,8.8.8.8,Active
+394,Africa,2012-03-27,19.61,UNESCO,9.9.9.9,Inactive
+395,South America,2021-04-02,80.0,OECD,9.9.9.9,Pending
+396,Asia,2018-12-04,73.85,World Bank,8.8.8.8,Active
+397,South America,2006-01-15,47.3,UNESCO,8.8.8.8,Active
+398,Europe,2010-07-05,0.97,World Bank,4.2.2.2,Active
+399,Asia,2013-12-07,42.15,International Telecommunication Union (ITU),4.2.2.2,Active
+400,Europe,2013-09-25,13.45,UNESCO,8.8.8.8,Pending
+401,Africa,2019-08-28,89.33,World Bank,4.2.2.2,Active
+402,Asia,2023-12-02,63.07,International Telecommunication Union (ITU),8.8.8.8,Active
+403,Europe,2022-03-17,53.4,World Bank,4.2.2.2,Inactive
+404,Europe,2006-09-11,31.57,OECD,8.8.8.8,Inactive
+405,Asia,2021-08-17,48.66,World Bank,1.1.1.1,Inactive
+406,North America,2012-06-06,25.1,OECD,8.8.8.8,Pending
+407,South America,2014-09-11,85.85,World Bank,1.1.1.1,Pending
+408,Oceania,2017-06-22,4.77,International Telecommunication Union (ITU),8.8.4.4,Active
+409,Europe,2023-11-21,9.9,OECD,1.1.1.1,Pending
+410,South America,2022-05-20,16.33,National Statistical Office,8.8.4.4,Active
+411,Oceania,2015-04-08,21.55,OECD,9.9.9.9,Active
+412,South America,2008-09-10,25.43,International Telecommunication Union (ITU),4.2.2.2,Inactive
+413,Africa,2007-05-25,83.9,OECD,9.9.9.9,Active
+414,Oceania,2009-12-07,9.63,World Bank,8.8.8.8,Inactive
+415,South America,2022-12-16,74.46,World Bank,1.1.1.1,Active
+416,Europe,2010-08-12,25.98,National Statistical Office,8.8.4.4,Inactive
+417,Oceania,2017-12-09,36.03,OECD,8.8.4.4,Active
+418,Africa,2009-02-19,55.75,World Bank,1.1.1.1,Inactive
+419,Asia,2021-09-13,81.0,OECD,8.8.8.8,Active
+420,Europe,2012-06-25,34.41,UNESCO,1.1.1.1,Pending
+421,Africa,2004-05-02,41.18,World Bank,9.9.9.9,Active
+422,Africa,2009-12-03,35.11,OECD,9.9.9.9,Inactive
+423,Oceania,2011-08-21,67.96,World Bank,8.8.8.8,Inactive
+424,South America,2008-12-16,60.56,UNESCO,1.1.1.1,Pending
+425,Asia,2006-04-27,57.69,UNESCO,9.9.9.9,Active
+426,Europe,2017-05-18,64.99,World Bank,8.8.4.4,Active
+427,Europe,2022-05-05,53.84,UNESCO,8.8.4.4,Active
+428,South America,2003-10-24,97.94,World Bank,4.2.2.2,Inactive
+429,Asia,2018-04-08,28.46,International Telecommunication Union (ITU),1.1.1.1,Active
+430,Oceania,2001-11-17,32.51,National Statistical Office,8.8.8.8,Pending
+431,Europe,2007-11-08,51.04,International Telecommunication Union (ITU),8.8.4.4,Pending
+432,Asia,2001-02-14,77.47,UNESCO,8.8.4.4,Active
+433,Oceania,2010-12-16,44.69,World Bank,9.9.9.9,Active
+434,Oceania,2003-11-25,7.84,International Telecommunication Union (ITU),8.8.4.4,Active
+435,Europe,2004-01-18,61.37,OECD,1.1.1.1,Pending
+436,South America,2005-07-21,46.38,OECD,1.1.1.1,Active
+437,North America,2015-08-21,95.66,OECD,4.2.2.2,Inactive
+438,Europe,2006-05-11,86.83,World Bank,9.9.9.9,Pending
+439,Africa,2009-11-02,64.06,UNESCO,1.1.1.1,Pending
+440,Africa,2002-11-19,92.86,World Bank,1.1.1.1,Inactive
+441,Oceania,2007-09-24,42.18,UNESCO,9.9.9.9,Inactive
+442,North America,2023-01-06,61.23,National Statistical Office,9.9.9.9,Inactive
+443,Europe,2013-03-02,40.48,World Bank,9.9.9.9,Inactive
+444,Africa,2012-08-06,90.71,National Statistical Office,9.9.9.9,Pending
+445,Africa,2023-05-02,7.91,World Bank,4.2.2.2,Inactive
+446,Europe,2000-05-19,34.36,National Statistical Office,8.8.4.4,Inactive
+447,Asia,2019-02-11,31.35,National Statistical Office,8.8.8.8,Inactive
+448,Oceania,2009-08-21,65.3,World Bank,9.9.9.9,Pending
+449,Europe,2017-09-16,71.04,International Telecommunication Union (ITU),1.1.1.1,Inactive
+450,Asia,2004-09-15,60.54,OECD,8.8.8.8,Inactive
+451,Oceania,2008-04-26,39.55,National Statistical Office,4.2.2.2,Active
+452,North America,2003-06-06,88.77,OECD,8.8.8.8,Inactive
+453,South America,2023-08-21,78.1,World Bank,8.8.8.8,Pending
+454,Oceania,2008-12-06,93.88,National Statistical Office,8.8.4.4,Inactive
+455,North America,2000-12-11,74.79,OECD,8.8.4.4,Inactive
+456,South America,2009-10-22,52.09,OECD,9.9.9.9,Pending
+457,Africa,2006-03-20,45.03,UNESCO,1.1.1.1,Active
+458,Africa,2020-07-27,16.73,International Telecommunication Union (ITU),9.9.9.9,Inactive
+459,Africa,2013-09-11,85.42,OECD,8.8.8.8,Inactive
+460,Oceania,2002-07-22,12.5,World Bank,9.9.9.9,Active
+461,Asia,2003-03-05,23.46,World Bank,8.8.8.8,Active
+462,South America,2015-06-08,25.16,UNESCO,1.1.1.1,Inactive
+463,Africa,2000-05-13,74.39,OECD,4.2.2.2,Pending
+464,Europe,2007-08-25,74.97,National Statistical Office,8.8.8.8,Inactive
+465,South America,2008-06-10,21.06,World Bank,4.2.2.2,Pending
+466,South America,2018-12-19,39.7,National Statistical Office,8.8.4.4,Active
+467,Asia,2000-05-21,9.56,World Bank,9.9.9.9,Active
+468,North America,2011-12-08,93.68,National Statistical Office,9.9.9.9,Pending
+469,Asia,2001-11-04,47.32,International Telecommunication Union (ITU),4.2.2.2,Active
+470,Africa,2014-05-06,5.38,OECD,8.8.4.4,Pending
+471,Europe,2012-11-17,77.09,International Telecommunication Union (ITU),8.8.4.4,Inactive
+472,Europe,2022-05-23,52.4,International Telecommunication Union (ITU),8.8.4.4,Pending
+473,Africa,2003-11-10,99.6,OECD,8.8.8.8,Active
+474,Europe,2011-10-08,10.39,National Statistical Office,8.8.4.4,Inactive
+475,Asia,2007-03-16,61.81,International Telecommunication Union (ITU),4.2.2.2,Inactive
+476,Oceania,2004-08-24,8.43,OECD,4.2.2.2,Pending
+477,Asia,2019-06-14,93.16,National Statistical Office,1.1.1.1,Pending
+478,Oceania,2022-09-16,38.98,OECD,9.9.9.9,Pending
+479,Africa,2017-11-27,22.94,OECD,9.9.9.9,Inactive
+480,Europe,2006-04-22,73.76,International Telecommunication Union (ITU),1.1.1.1,Pending
+481,South America,2019-02-17,44.32,OECD,4.2.2.2,Inactive
+482,North America,2014-09-23,12.64,OECD,4.2.2.2,Pending
+483,South America,2011-02-19,52.67,World Bank,4.2.2.2,Active
+484,Oceania,2003-01-27,17.06,International Telecommunication Union (ITU),9.9.9.9,Active
+485,Asia,2017-09-07,3.52,National Statistical Office,8.8.4.4,Pending
+486,Asia,2018-09-05,35.68,International Telecommunication Union (ITU),9.9.9.9,Inactive
+487,Asia,2005-06-28,91.53,OECD,1.1.1.1,Active
+488,Asia,2016-08-04,86.42,World Bank,8.8.4.4,Pending
+489,North America,2021-04-23,46.72,World Bank,8.8.8.8,Inactive
+490,Africa,2018-08-03,87.09,UNESCO,8.8.8.8,Active
+491,Asia,2016-08-26,93.49,UNESCO,4.2.2.2,Pending
+492,Oceania,2001-08-05,54.85,World Bank,8.8.4.4,Inactive
+493,Europe,2016-07-15,13.51,International Telecommunication Union (ITU),9.9.9.9,Pending
+494,North America,2018-01-18,94.85,International Telecommunication Union (ITU),1.1.1.1,Inactive
+495,Oceania,2014-11-26,53.93,OECD,4.2.2.2,Active
+496,Oceania,2009-12-01,59.08,UNESCO,4.2.2.2,Pending
+497,Asia,2012-05-27,45.65,World Bank,8.8.4.4,Inactive
+498,Europe,2000-12-07,74.89,OECD,1.1.1.1,Inactive
+499,Asia,2018-02-02,87.73,National Statistical Office,8.8.8.8,Pending
+500,Oceania,2013-06-23,43.5,National Statistical Office,4.2.2.2,Pending
+501,Africa,2002-09-02,63.98,International Telecommunication Union (ITU),4.2.2.2,Active
+502,North America,2002-08-02,53.38,OECD,8.8.4.4,Inactive
+503,Africa,2009-07-06,90.89,OECD,4.2.2.2,Inactive
+504,North America,2004-11-24,48.17,World Bank,8.8.4.4,Inactive
+505,Asia,2020-07-12,22.71,OECD,1.1.1.1,Pending
+506,Asia,2012-08-28,8.96,World Bank,8.8.8.8,Pending
+507,North America,2012-07-03,30.79,UNESCO,8.8.8.8,Active
+508,Europe,2021-11-28,41.22,OECD,4.2.2.2,Pending
+509,Europe,2017-03-21,15.57,International Telecommunication Union (ITU),4.2.2.2,Inactive
+510,Asia,2011-02-06,1.06,International Telecommunication Union (ITU),8.8.4.4,Inactive
+511,Asia,2017-07-17,52.33,OECD,1.1.1.1,Pending
+512,Africa,2004-12-08,75.83,UNESCO,8.8.4.4,Active
+513,Oceania,2000-01-10,13.63,National Statistical Office,9.9.9.9,Pending
+514,Asia,2014-11-24,28.68,International Telecommunication Union (ITU),4.2.2.2,Active
+515,North America,2017-07-18,53.51,UNESCO,8.8.8.8,Pending
+516,Europe,2012-04-08,68.78,OECD,8.8.8.8,Pending
+517,Europe,2014-06-05,49.19,UNESCO,8.8.4.4,Pending
+518,Africa,2008-04-24,75.55,National Statistical Office,8.8.4.4,Pending
+519,Europe,2003-01-26,29.96,National Statistical Office,4.2.2.2,Active
+520,Europe,2021-07-20,76.59,National Statistical Office,8.8.4.4,Active
+521,Oceania,2000-04-07,79.8,World Bank,8.8.8.8,Inactive
+522,South America,2002-02-20,59.7,International Telecommunication Union (ITU),8.8.8.8,Active
+523,North America,2001-08-20,79.68,National Statistical Office,8.8.8.8,Inactive
+524,Oceania,2021-12-28,54.82,UNESCO,9.9.9.9,Pending
+525,South America,2001-04-24,18.86,International Telecommunication Union (ITU),8.8.4.4,Pending
+526,Europe,2001-07-15,88.22,National Statistical Office,4.2.2.2,Inactive
+527,Africa,2007-09-07,43.71,UNESCO,8.8.8.8,Active
+528,Africa,2001-03-17,24.99,International Telecommunication Union (ITU),9.9.9.9,Inactive
+529,Europe,2009-04-27,71.49,International Telecommunication Union (ITU),8.8.4.4,Active
+530,Asia,2023-10-11,64.6,OECD,1.1.1.1,Inactive
+531,South America,2018-10-25,82.84,UNESCO,4.2.2.2,Pending
+532,Europe,2021-06-08,22.06,OECD,4.2.2.2,Pending
+533,Africa,2009-03-22,7.92,National Statistical Office,4.2.2.2,Active
+534,Africa,2016-04-14,62.53,International Telecommunication Union (ITU),4.2.2.2,Active
+535,South America,2009-05-02,51.66,UNESCO,1.1.1.1,Active
+536,North America,2017-10-24,80.0,UNESCO,8.8.4.4,Active
+537,Europe,2005-11-22,61.32,World Bank,8.8.4.4,Pending
+538,Oceania,2013-09-16,69.39,National Statistical Office,8.8.4.4,Pending
+539,Europe,2001-06-21,27.19,International Telecommunication Union (ITU),4.2.2.2,Active
+540,North America,2021-07-26,64.85,National Statistical Office,1.1.1.1,Active
+541,South America,2016-06-23,53.19,World Bank,9.9.9.9,Inactive
+542,South America,2013-07-05,26.88,World Bank,4.2.2.2,Pending
+543,Africa,2009-07-06,18.8,UNESCO,1.1.1.1,Active
+544,North America,2017-08-08,6.85,World Bank,8.8.8.8,Active
+545,South America,2007-05-28,13.66,National Statistical Office,8.8.4.4,Inactive
+546,Asia,2022-03-26,11.04,International Telecommunication Union (ITU),4.2.2.2,Inactive
+547,Europe,2014-01-18,45.53,OECD,4.2.2.2,Inactive
+548,Africa,2013-07-18,45.28,National Statistical Office,1.1.1.1,Active
+549,Oceania,2016-03-13,70.05,World Bank,8.8.4.4,Pending
+550,North America,2007-05-07,49.2,World Bank,9.9.9.9,Inactive
+551,Africa,2010-11-03,32.06,UNESCO,8.8.8.8,Pending
+552,South America,2014-06-03,15.21,UNESCO,1.1.1.1,Inactive
+553,South America,2017-12-27,96.97,UNESCO,9.9.9.9,Pending
+554,Oceania,2006-01-09,2.21,National Statistical Office,9.9.9.9,Active
+555,Oceania,2012-11-20,97.23,OECD,8.8.8.8,Pending
+556,Oceania,2019-01-28,28.21,UNESCO,8.8.8.8,Active
+557,Oceania,2002-04-26,12.5,International Telecommunication Union (ITU),8.8.8.8,Pending
+558,Oceania,2018-12-22,43.84,International Telecommunication Union (ITU),9.9.9.9,Pending
+559,Asia,2017-04-16,0.82,UNESCO,1.1.1.1,Pending
+560,Europe,2006-06-10,9.02,UNESCO,9.9.9.9,Inactive
+561,North America,2000-04-07,1.47,OECD,1.1.1.1,Active
+562,Africa,2023-02-24,21.72,OECD,9.9.9.9,Pending
+563,Oceania,2015-04-23,42.02,National Statistical Office,8.8.8.8,Inactive
+564,Europe,2019-12-07,78.57,National Statistical Office,8.8.4.4,Active
+565,South America,2012-04-18,49.84,International Telecommunication Union (ITU),4.2.2.2,Pending
+566,Europe,2010-05-13,37.14,OECD,9.9.9.9,Pending
+567,Oceania,2014-09-21,69.69,National Statistical Office,4.2.2.2,Active
+568,Africa,2011-05-09,3.17,National Statistical Office,4.2.2.2,Pending
+569,Oceania,2011-09-16,8.02,UNESCO,4.2.2.2,Inactive
+570,Europe,2014-02-26,75.06,OECD,9.9.9.9,Inactive
+571,South America,2023-08-25,14.61,National Statistical Office,8.8.4.4,Pending
+572,Europe,2010-04-12,26.65,UNESCO,4.2.2.2,Pending
+573,Oceania,2010-07-02,39.24,International Telecommunication Union (ITU),9.9.9.9,Pending
+574,North America,2018-04-24,54.32,World Bank,9.9.9.9,Pending
+575,Europe,2004-01-09,18.16,OECD,9.9.9.9,Inactive
+576,North America,2017-10-19,89.57,International Telecommunication Union (ITU),9.9.9.9,Pending
+577,Oceania,2023-07-10,25.01,International Telecommunication Union (ITU),9.9.9.9,Pending
+578,Europe,2004-04-11,38.16,OECD,1.1.1.1,Pending
+579,South America,2007-07-19,1.26,World Bank,1.1.1.1,Inactive
+580,Asia,2007-08-18,97.46,UNESCO,4.2.2.2,Active
+581,Asia,2020-11-11,71.47,International Telecommunication Union (ITU),1.1.1.1,Active
+582,North America,2008-08-24,38.48,International Telecommunication Union (ITU),9.9.9.9,Inactive
+583,Oceania,2020-12-16,97.5,World Bank,9.9.9.9,Active
+584,North America,2014-03-24,24.72,UNESCO,1.1.1.1,Inactive
+585,Oceania,2011-03-05,99.45,International Telecommunication Union (ITU),4.2.2.2,Active
+586,Oceania,2023-09-16,19.92,World Bank,4.2.2.2,Active
+587,Asia,2005-09-21,73.53,OECD,8.8.8.8,Active
+588,South America,2001-09-02,9.4,World Bank,1.1.1.1,Inactive
+589,South America,2002-11-02,66.6,World Bank,9.9.9.9,Pending
+590,Europe,2000-07-05,20.84,National Statistical Office,9.9.9.9,Pending
+591,North America,2020-04-03,38.91,International Telecommunication Union (ITU),8.8.8.8,Active
+592,South America,2022-03-01,96.12,UNESCO,1.1.1.1,Pending
+593,Africa,2006-09-15,93.62,OECD,4.2.2.2,Active
+594,Europe,2011-01-20,15.86,National Statistical Office,8.8.4.4,Pending
+595,Europe,2020-11-20,72.82,World Bank,8.8.8.8,Inactive
+596,Asia,2015-11-16,74.47,OECD,4.2.2.2,Active
+597,North America,2000-01-18,54.96,UNESCO,9.9.9.9,Inactive
+598,South America,2017-07-01,12.21,OECD,8.8.8.8,Inactive
+599,South America,2000-09-24,48.12,OECD,8.8.8.8,Pending
+600,Oceania,2008-09-10,29.88,International Telecommunication Union (ITU),8.8.4.4,Pending
+601,Europe,2000-09-27,36.04,UNESCO,4.2.2.2,Active
+602,North America,2022-11-14,5.21,World Bank,8.8.4.4,Inactive
+603,North America,2005-02-04,66.67,International Telecommunication Union (ITU),8.8.8.8,Active
+604,North America,2016-03-08,97.33,International Telecommunication Union (ITU),4.2.2.2,Pending
+605,Oceania,2006-10-17,23.6,World Bank,1.1.1.1,Pending
+606,Asia,2008-06-09,43.42,National Statistical Office,8.8.8.8,Active
+607,South America,2012-02-12,1.51,UNESCO,8.8.4.4,Inactive
+608,North America,2012-08-19,79.44,OECD,8.8.4.4,Inactive
+609,Oceania,2007-12-08,58.47,National Statistical Office,8.8.4.4,Inactive
+610,Asia,2009-11-27,39.58,UNESCO,8.8.4.4,Inactive
+611,Oceania,2002-11-28,24.31,UNESCO,8.8.4.4,Pending
+612,Africa,2020-01-03,96.88,OECD,9.9.9.9,Active
+613,Europe,2012-07-13,58.11,National Statistical Office,8.8.8.8,Pending
+614,South America,2017-08-02,69.08,National Statistical Office,1.1.1.1,Pending
+615,Oceania,2020-01-23,68.84,National Statistical Office,1.1.1.1,Pending
+616,Oceania,2005-02-16,15.5,OECD,4.2.2.2,Pending
+617,South America,2013-11-26,77.08,OECD,9.9.9.9,Active
+618,Europe,2010-10-28,24.87,UNESCO,8.8.8.8,Active
+619,Africa,2003-09-02,49.99,National Statistical Office,8.8.4.4,Inactive
+620,Asia,2007-04-28,68.59,World Bank,8.8.4.4,Active
+621,Oceania,2022-10-16,33.84,UNESCO,1.1.1.1,Pending
+622,Europe,2008-01-03,96.97,World Bank,1.1.1.1,Inactive
+623,Asia,2021-05-18,75.96,UNESCO,9.9.9.9,Inactive
+624,Asia,2018-11-02,6.01,World Bank,8.8.8.8,Active
+625,Asia,2005-06-01,35.55,OECD,8.8.8.8,Inactive
+626,Africa,2006-10-05,15.39,UNESCO,4.2.2.2,Active
+627,Africa,2022-07-03,53.64,UNESCO,8.8.4.4,Inactive
+628,Asia,2009-03-19,10.74,International Telecommunication Union (ITU),8.8.8.8,Pending
+629,North America,2007-10-27,48.78,World Bank,8.8.8.8,Inactive
+630,South America,2012-11-18,31.67,UNESCO,9.9.9.9,Active
+631,Africa,2010-07-25,55.84,UNESCO,9.9.9.9,Pending
+632,North America,2023-03-26,64.46,OECD,4.2.2.2,Inactive
+633,North America,2022-12-03,34.73,World Bank,8.8.4.4,Active
+634,Oceania,2016-12-12,89.18,National Statistical Office,4.2.2.2,Pending
+635,South America,2001-02-14,73.32,World Bank,9.9.9.9,Pending
+636,Asia,2007-02-11,2.14,National Statistical Office,8.8.4.4,Pending
+637,Oceania,2019-10-20,37.78,UNESCO,9.9.9.9,Active
+638,Oceania,2012-06-01,72.44,World Bank,9.9.9.9,Pending
+639,North America,2020-05-26,25.07,World Bank,4.2.2.2,Inactive
+640,North America,2014-08-08,3.95,World Bank,1.1.1.1,Inactive
+641,North America,2011-09-13,70.66,World Bank,1.1.1.1,Pending
+642,Asia,2013-03-22,55.9,World Bank,4.2.2.2,Pending
+643,Asia,2018-11-13,54.27,International Telecommunication Union (ITU),9.9.9.9,Active
+644,Oceania,2002-10-10,49.01,International Telecommunication Union (ITU),9.9.9.9,Inactive
+645,Oceania,2007-12-03,56.67,UNESCO,9.9.9.9,Pending
+646,Africa,2002-05-05,54.36,National Statistical Office,1.1.1.1,Pending
+647,Africa,2012-12-26,32.37,World Bank,8.8.4.4,Inactive
+648,North America,2020-03-24,46.84,OECD,8.8.8.8,Pending
+649,Asia,2012-06-12,86.77,UNESCO,4.2.2.2,Active
+650,Asia,2003-02-01,59.87,UNESCO,4.2.2.2,Inactive
+651,Oceania,2009-08-12,86.06,World Bank,9.9.9.9,Inactive
+652,South America,2008-02-05,16.03,World Bank,9.9.9.9,Pending
+653,North America,2002-03-14,53.11,National Statistical Office,1.1.1.1,Inactive
+654,Africa,2014-09-18,44.94,International Telecommunication Union (ITU),9.9.9.9,Active
+655,South America,2016-07-04,81.94,UNESCO,8.8.4.4,Inactive
+656,Asia,2000-02-12,54.16,UNESCO,4.2.2.2,Active
+657,Africa,2017-02-20,45.41,World Bank,8.8.8.8,Pending
+658,North America,2019-06-28,77.59,UNESCO,9.9.9.9,Active
+659,Asia,2012-01-10,50.6,OECD,8.8.4.4,Pending
+660,North America,2013-07-25,73.37,National Statistical Office,8.8.8.8,Active
+661,Oceania,2002-12-18,88.29,World Bank,1.1.1.1,Pending
+662,South America,2007-10-17,61.97,National Statistical Office,8.8.8.8,Pending
+663,South America,2005-11-13,36.41,UNESCO,4.2.2.2,Active
+664,South America,2005-03-09,62.02,International Telecommunication Union (ITU),8.8.4.4,Active
+665,Europe,2009-05-16,32.07,International Telecommunication Union (ITU),4.2.2.2,Inactive
+666,North America,2004-02-06,6.33,OECD,8.8.8.8,Pending
+667,South America,2013-05-14,96.72,OECD,4.2.2.2,Inactive
+668,Oceania,2009-08-26,81.9,World Bank,8.8.8.8,Inactive
+669,South America,2002-06-09,18.99,OECD,1.1.1.1,Pending
+670,North America,2007-12-21,68.32,UNESCO,4.2.2.2,Active
+671,South America,2015-10-20,76.57,World Bank,4.2.2.2,Active
+672,North America,2006-08-04,15.41,International Telecommunication Union (ITU),4.2.2.2,Pending
+673,Asia,2004-05-01,28.31,National Statistical Office,8.8.8.8,Inactive
+674,Oceania,2012-06-27,40.98,National Statistical Office,4.2.2.2,Inactive
+675,North America,2019-07-26,32.2,UNESCO,4.2.2.2,Inactive
+676,North America,2010-08-11,9.63,UNESCO,1.1.1.1,Pending
+677,Europe,2013-11-20,65.89,OECD,9.9.9.9,Inactive
+678,Asia,2004-05-11,4.38,UNESCO,4.2.2.2,Inactive
+679,Oceania,2019-12-07,93.78,National Statistical Office,8.8.8.8,Inactive
+680,Europe,2015-06-06,17.86,World Bank,8.8.8.8,Inactive
+681,South America,2012-06-10,3.13,National Statistical Office,4.2.2.2,Active
+682,North America,2023-12-21,10.71,OECD,1.1.1.1,Pending
+683,Oceania,2015-10-26,19.16,UNESCO,8.8.8.8,Pending
+684,Asia,2007-06-13,3.18,International Telecommunication Union (ITU),8.8.4.4,Inactive
+685,Europe,2008-07-12,64.18,OECD,1.1.1.1,Inactive
+686,North America,2003-10-07,38.86,International Telecommunication Union (ITU),1.1.1.1,Pending
+687,Africa,2018-09-06,48.99,World Bank,4.2.2.2,Active
+688,Oceania,2021-09-01,62.4,National Statistical Office,9.9.9.9,Pending
+689,Europe,2023-08-23,59.03,International Telecommunication Union (ITU),8.8.8.8,Pending
+690,Asia,2006-08-26,4.91,UNESCO,4.2.2.2,Inactive
+691,Europe,2009-12-03,22.07,International Telecommunication Union (ITU),4.2.2.2,Active
+692,Europe,2013-11-16,71.78,OECD,8.8.4.4,Active
+693,Europe,2004-11-10,1.31,National Statistical Office,9.9.9.9,Inactive
+694,South America,2007-05-22,92.1,World Bank,4.2.2.2,Pending
+695,Africa,2004-12-14,65.57,OECD,8.8.8.8,Active
+696,Asia,2012-02-15,92.84,UNESCO,9.9.9.9,Pending
+697,Asia,2019-08-19,83.21,International Telecommunication Union (ITU),8.8.8.8,Inactive
+698,Asia,2012-09-17,46.81,UNESCO,8.8.4.4,Inactive
+699,North America,2022-07-18,63.89,International Telecommunication Union (ITU),9.9.9.9,Pending
+700,Oceania,2001-06-23,36.09,National Statistical Office,1.1.1.1,Active
+701,Asia,2017-10-21,74.35,World Bank,9.9.9.9,Pending
+702,Oceania,2002-02-25,89.04,National Statistical Office,8.8.8.8,Active
+703,Asia,2007-11-22,82.2,National Statistical Office,4.2.2.2,Inactive
+704,Africa,2011-03-21,79.42,World Bank,8.8.4.4,Pending
+705,North America,2019-01-19,5.83,UNESCO,9.9.9.9,Inactive
+706,North America,2020-11-21,61.69,World Bank,8.8.4.4,Inactive
+707,Europe,2012-06-26,52.9,International Telecommunication Union (ITU),8.8.8.8,Active
+708,South America,2013-02-01,73.43,International Telecommunication Union (ITU),8.8.8.8,Active
+709,North America,2003-05-08,83.45,National Statistical Office,8.8.8.8,Active
+710,North America,2016-12-17,7.79,OECD,4.2.2.2,Pending
+711,Africa,2017-10-23,21.59,International Telecommunication Union (ITU),1.1.1.1,Active
+712,Asia,2018-04-15,51.95,National Statistical Office,8.8.4.4,Pending
+713,North America,2011-07-15,10.12,OECD,1.1.1.1,Pending
+714,North America,2021-10-23,23.1,World Bank,1.1.1.1,Active
+715,South America,2016-03-12,38.53,OECD,8.8.4.4,Inactive
+716,Oceania,2000-08-04,19.31,UNESCO,8.8.8.8,Pending
+717,Africa,2009-07-03,65.69,National Statistical Office,1.1.1.1,Pending
+718,South America,2003-12-05,57.0,National Statistical Office,8.8.4.4,Active
+719,North America,2011-05-11,94.75,National Statistical Office,9.9.9.9,Pending
+720,North America,2014-04-17,55.84,International Telecommunication Union (ITU),1.1.1.1,Active
+721,Africa,2015-06-16,55.81,UNESCO,8.8.8.8,Inactive
+722,Europe,2003-08-24,74.61,OECD,4.2.2.2,Inactive
+723,Europe,2022-08-11,76.63,World Bank,8.8.4.4,Pending
+724,North America,2002-05-02,57.66,OECD,1.1.1.1,Active
+725,North America,2022-02-01,67.45,UNESCO,8.8.8.8,Active
+726,South America,2010-11-04,70.26,OECD,8.8.8.8,Active
+727,Oceania,2021-03-24,42.71,UNESCO,8.8.4.4,Inactive
+728,Oceania,2007-09-06,10.41,International Telecommunication Union (ITU),9.9.9.9,Inactive
+729,South America,2017-03-11,79.25,UNESCO,8.8.8.8,Active
+730,South America,2017-07-15,55.0,UNESCO,8.8.4.4,Active
+731,Asia,2007-07-21,50.47,UNESCO,1.1.1.1,Active
+732,North America,2005-03-21,65.75,UNESCO,9.9.9.9,Pending
+733,Asia,2021-07-13,53.39,OECD,8.8.4.4,Pending
+734,Europe,2000-12-20,59.99,National Statistical Office,8.8.4.4,Inactive
+735,North America,2006-08-19,93.35,International Telecommunication Union (ITU),9.9.9.9,Pending
+736,North America,2013-07-01,90.25,World Bank,8.8.8.8,Inactive
+737,Africa,2022-04-07,55.01,OECD,8.8.8.8,Active
+738,North America,2008-12-26,99.69,OECD,1.1.1.1,Pending
+739,Europe,2002-10-04,84.49,OECD,1.1.1.1,Pending
+740,Oceania,2017-03-12,41.23,UNESCO,4.2.2.2,Inactive
+741,Oceania,2010-04-15,63.32,World Bank,4.2.2.2,Active
+742,North America,2003-05-22,82.62,OECD,1.1.1.1,Active
+743,Oceania,2015-09-21,32.35,OECD,9.9.9.9,Active
+744,Asia,2010-10-13,24.07,World Bank,4.2.2.2,Active
+745,North America,2019-07-19,54.56,National Statistical Office,4.2.2.2,Inactive
+746,Asia,2003-06-12,37.51,National Statistical Office,9.9.9.9,Inactive
+747,South America,2014-10-06,55.02,International Telecommunication Union (ITU),8.8.8.8,Inactive
+748,South America,2021-12-26,74.46,World Bank,8.8.4.4,Pending
+749,Africa,2009-10-19,36.0,World Bank,8.8.8.8,Pending
+750,North America,2002-11-05,45.24,UNESCO,8.8.4.4,Active
+751,South America,2010-02-08,95.98,OECD,9.9.9.9,Pending
+752,South America,2009-02-06,0.02,National Statistical Office,4.2.2.2,Pending
+753,Oceania,2011-12-05,3.47,UNESCO,9.9.9.9,Inactive
+754,Africa,2016-07-14,28.45,International Telecommunication Union (ITU),8.8.8.8,Pending
+755,Africa,2019-03-19,1.63,National Statistical Office,9.9.9.9,Pending
+756,Oceania,2012-07-06,13.51,OECD,8.8.8.8,Pending
+757,North America,2015-11-18,89.03,International Telecommunication Union (ITU),9.9.9.9,Active
+758,Asia,2022-11-06,0.66,International Telecommunication Union (ITU),1.1.1.1,Inactive
+759,North America,2017-03-16,98.44,OECD,8.8.8.8,Pending
+760,Asia,2009-03-06,21.48,UNESCO,8.8.4.4,Inactive
+761,Africa,2010-08-20,31.49,OECD,4.2.2.2,Inactive
+762,Europe,2001-06-01,77.15,World Bank,4.2.2.2,Pending
+763,North America,2015-03-07,94.33,National Statistical Office,8.8.8.8,Pending
+764,Europe,2012-09-17,82.23,OECD,1.1.1.1,Inactive
+765,Asia,2020-08-14,91.91,National Statistical Office,4.2.2.2,Inactive
+766,North America,2021-08-14,51.13,World Bank,1.1.1.1,Active
+767,Europe,2022-08-16,57.07,World Bank,8.8.4.4,Active
+768,Europe,2005-02-19,57.16,World Bank,4.2.2.2,Active
+769,North America,2000-04-10,9.43,OECD,9.9.9.9,Active
+770,Europe,2001-05-08,46.04,UNESCO,9.9.9.9,Active
+771,North America,2017-05-06,15.61,National Statistical Office,8.8.8.8,Inactive
+772,Europe,2014-10-24,26.5,OECD,4.2.2.2,Pending
+773,Africa,2015-09-17,88.96,International Telecommunication Union (ITU),1.1.1.1,Pending
+774,North America,2003-10-04,24.99,UNESCO,1.1.1.1,Pending
+775,Africa,2008-09-27,25.62,National Statistical Office,8.8.4.4,Active
+776,Oceania,2011-09-27,30.03,UNESCO,4.2.2.2,Active
+777,South America,2001-12-15,57.05,OECD,1.1.1.1,Pending
+778,Africa,2017-04-14,56.91,National Statistical Office,1.1.1.1,Pending
+779,Europe,2003-12-27,21.74,OECD,4.2.2.2,Pending
+780,Asia,2020-04-10,7.72,World Bank,9.9.9.9,Inactive
+781,Oceania,2001-08-09,32.47,International Telecommunication Union (ITU),4.2.2.2,Inactive
+782,Africa,2011-02-15,48.25,International Telecommunication Union (ITU),9.9.9.9,Pending
+783,Oceania,2003-04-07,48.83,World Bank,8.8.8.8,Pending
+784,Africa,2023-10-23,89.9,UNESCO,8.8.8.8,Active
+785,Africa,2011-12-20,70.28,UNESCO,9.9.9.9,Pending
+786,Asia,2020-07-06,81.95,OECD,4.2.2.2,Active
+787,Asia,2019-03-26,9.54,International Telecommunication Union (ITU),8.8.4.4,Inactive
+788,Africa,2006-04-26,64.23,UNESCO,1.1.1.1,Inactive
+789,South America,2001-10-12,3.74,OECD,8.8.8.8,Pending
+790,Asia,2017-05-20,80.83,World Bank,8.8.8.8,Pending
+791,Asia,2017-03-11,38.15,OECD,9.9.9.9,Inactive
+792,Asia,2022-05-10,78.01,World Bank,8.8.4.4,Inactive
+793,North America,2018-05-28,92.19,International Telecommunication Union (ITU),4.2.2.2,Pending
+794,Oceania,2016-11-27,33.44,International Telecommunication Union (ITU),8.8.4.4,Active
+795,Africa,2003-03-25,87.98,UNESCO,9.9.9.9,Active
+796,South America,2013-01-09,43.43,OECD,8.8.4.4,Inactive
+797,Asia,2020-03-23,93.02,International Telecommunication Union (ITU),1.1.1.1,Active
+798,North America,2004-04-05,12.05,National Statistical Office,4.2.2.2,Pending
+799,Oceania,2022-06-27,77.04,UNESCO,4.2.2.2,Pending
+800,Europe,2007-11-13,74.77,National Statistical Office,8.8.4.4,Active
+801,Europe,2015-03-19,84.95,OECD,8.8.8.8,Inactive
+802,Asia,2020-05-21,92.87,National Statistical Office,1.1.1.1,Pending
+803,South America,2013-07-15,63.39,OECD,4.2.2.2,Active
+804,South America,2002-11-26,63.22,UNESCO,4.2.2.2,Inactive
+805,Oceania,2002-07-17,5.41,OECD,8.8.8.8,Pending
+806,Oceania,2023-05-23,52.44,International Telecommunication Union (ITU),8.8.4.4,Pending
+807,Africa,2011-08-16,31.93,UNESCO,8.8.8.8,Pending
+808,Asia,2010-10-01,56.49,National Statistical Office,9.9.9.9,Inactive
+809,Europe,2023-02-24,32.68,National Statistical Office,8.8.8.8,Active
+810,Africa,2014-11-22,69.78,International Telecommunication Union (ITU),1.1.1.1,Pending
+811,South America,2022-06-28,15.32,UNESCO,4.2.2.2,Pending
+812,Africa,2002-09-13,67.36,World Bank,8.8.4.4,Pending
+813,Europe,2006-07-27,99.74,National Statistical Office,9.9.9.9,Pending
+814,South America,2006-08-09,97.1,International Telecommunication Union (ITU),1.1.1.1,Pending
+815,Oceania,2010-05-11,75.28,World Bank,4.2.2.2,Active
+816,North America,2017-10-05,57.53,UNESCO,4.2.2.2,Active
+817,North America,2018-08-26,9.01,OECD,8.8.4.4,Pending
+818,Oceania,2010-11-25,43.19,World Bank,8.8.4.4,Active
+819,Asia,2001-01-04,78.64,UNESCO,8.8.4.4,Active
+820,Africa,2020-08-01,14.8,World Bank,9.9.9.9,Pending
+821,South America,2003-03-15,33.62,International Telecommunication Union (ITU),8.8.4.4,Pending
+822,Oceania,2014-01-14,47.59,UNESCO,1.1.1.1,Active
+823,Oceania,2006-12-05,74.53,UNESCO,8.8.4.4,Active
+824,Asia,2020-05-06,54.82,OECD,8.8.4.4,Pending
+825,Africa,2008-02-21,26.26,UNESCO,1.1.1.1,Inactive
+826,Oceania,2011-05-03,39.85,International Telecommunication Union (ITU),9.9.9.9,Inactive
+827,Europe,2011-11-21,43.45,UNESCO,4.2.2.2,Active
+828,Oceania,2005-01-13,69.79,UNESCO,8.8.4.4,Active
+829,South America,2020-05-24,76.2,National Statistical Office,8.8.8.8,Active
+830,Africa,2022-04-14,48.09,International Telecommunication Union (ITU),1.1.1.1,Pending
+831,South America,2020-02-23,19.81,National Statistical Office,8.8.8.8,Active
+832,Africa,2003-01-07,39.53,World Bank,4.2.2.2,Pending
+833,Europe,2015-02-05,57.13,World Bank,9.9.9.9,Active
+834,South America,2018-04-17,56.12,International Telecommunication Union (ITU),8.8.8.8,Active
+835,North America,2021-08-01,99.71,National Statistical Office,8.8.8.8,Pending
+836,Oceania,2000-12-11,52.42,World Bank,1.1.1.1,Inactive
+837,Europe,2003-07-23,24.23,National Statistical Office,9.9.9.9,Active
+838,Africa,2004-08-03,26.63,UNESCO,4.2.2.2,Active
+839,South America,2007-07-03,43.01,UNESCO,9.9.9.9,Active
+840,Oceania,2023-02-04,68.47,UNESCO,9.9.9.9,Pending
+841,Europe,2010-06-10,57.6,UNESCO,4.2.2.2,Inactive
+842,Africa,2004-07-25,11.25,UNESCO,8.8.8.8,Inactive
+843,North America,2004-11-22,41.36,International Telecommunication Union (ITU),8.8.8.8,Pending
+844,North America,2004-02-17,36.53,National Statistical Office,4.2.2.2,Active
+845,Africa,2018-01-20,19.05,National Statistical Office,8.8.8.8,Inactive
+846,North America,2020-03-15,34.45,UNESCO,9.9.9.9,Pending
+847,Europe,2011-12-07,65.54,World Bank,8.8.8.8,Active
+848,Oceania,2020-12-05,76.97,International Telecommunication Union (ITU),8.8.4.4,Active
+849,North America,2013-10-22,16.93,World Bank,9.9.9.9,Inactive
+850,Oceania,2014-04-03,34.97,National Statistical Office,4.2.2.2,Active
+851,Asia,2003-03-25,82.16,UNESCO,8.8.4.4,Pending
+852,North America,2003-10-24,80.28,UNESCO,9.9.9.9,Inactive
+853,Asia,2012-06-14,62.32,OECD,1.1.1.1,Pending
+854,Oceania,2010-03-08,44.05,OECD,8.8.8.8,Pending
+855,South America,2008-11-03,92.42,UNESCO,8.8.8.8,Inactive
+856,Oceania,2007-09-20,23.35,World Bank,9.9.9.9,Active
+857,Europe,2019-12-20,68.54,International Telecommunication Union (ITU),8.8.4.4,Pending
+858,South America,2009-12-01,15.6,World Bank,1.1.1.1,Inactive
+859,South America,2021-05-07,72.85,World Bank,9.9.9.9,Pending
+860,North America,2016-10-17,8.58,National Statistical Office,8.8.8.8,Inactive
+861,North America,2006-12-13,73.96,World Bank,1.1.1.1,Pending
+862,North America,2009-11-02,24.3,World Bank,8.8.8.8,Inactive
+863,Oceania,2007-08-13,62.1,National Statistical Office,8.8.4.4,Pending
+864,South America,2003-04-16,14.77,National Statistical Office,8.8.4.4,Pending
+865,Europe,2020-10-03,83.24,National Statistical Office,1.1.1.1,Pending
+866,Europe,2016-01-12,28.77,National Statistical Office,8.8.8.8,Active
+867,Asia,2010-03-13,34.33,National Statistical Office,4.2.2.2,Pending
+868,Africa,2018-07-12,80.43,International Telecommunication Union (ITU),8.8.4.4,Active
+869,Europe,2017-11-06,30.51,OECD,1.1.1.1,Pending
+870,North America,2015-02-01,47.12,OECD,1.1.1.1,Active
+871,Asia,2018-02-01,33.19,International Telecommunication Union (ITU),9.9.9.9,Active
+872,North America,2008-04-02,74.0,International Telecommunication Union (ITU),8.8.4.4,Active
+873,South America,2001-07-17,21.19,World Bank,8.8.8.8,Active
+874,South America,2009-11-23,54.64,International Telecommunication Union (ITU),8.8.4.4,Active
+875,Oceania,2016-07-14,75.04,OECD,9.9.9.9,Inactive
+876,North America,2022-07-03,54.88,UNESCO,4.2.2.2,Active
+877,Europe,2020-09-18,62.3,UNESCO,1.1.1.1,Active
+878,Africa,2019-03-09,99.23,UNESCO,8.8.8.8,Pending
+879,North America,2002-05-03,69.51,World Bank,1.1.1.1,Pending
+880,Europe,2016-04-26,66.83,OECD,9.9.9.9,Active
+881,Asia,2004-09-11,37.66,National Statistical Office,8.8.8.8,Pending
+882,North America,2012-10-21,90.6,National Statistical Office,8.8.4.4,Inactive
+883,Asia,2020-11-21,52.68,UNESCO,4.2.2.2,Inactive
+884,Europe,2002-05-23,25.55,World Bank,4.2.2.2,Active
+885,Europe,2013-12-28,6.01,UNESCO,9.9.9.9,Pending
+886,Europe,2007-01-08,20.07,International Telecommunication Union (ITU),1.1.1.1,Pending
+887,Europe,2002-07-04,69.65,International Telecommunication Union (ITU),4.2.2.2,Inactive
+888,South America,2014-10-20,27.13,World Bank,1.1.1.1,Active
+889,Oceania,2001-05-22,46.5,World Bank,4.2.2.2,Pending
+890,Europe,2023-11-24,94.52,World Bank,4.2.2.2,Inactive
+891,South America,2005-02-01,6.66,World Bank,4.2.2.2,Inactive
+892,Africa,2022-03-23,66.04,UNESCO,1.1.1.1,Inactive
+893,South America,2000-03-16,66.3,World Bank,8.8.8.8,Pending
+894,Asia,2011-09-17,91.29,World Bank,4.2.2.2,Active
+895,Africa,2023-05-06,36.02,World Bank,1.1.1.1,Inactive
+896,Asia,2011-03-24,10.79,International Telecommunication Union (ITU),8.8.8.8,Inactive
+897,Oceania,2008-12-04,29.25,OECD,1.1.1.1,Active
+898,North America,2000-06-26,88.34,International Telecommunication Union (ITU),8.8.4.4,Inactive
+899,North America,2013-05-17,38.65,International Telecommunication Union (ITU),4.2.2.2,Pending
+900,South America,2002-05-23,97.98,International Telecommunication Union (ITU),1.1.1.1,Inactive
+901,Asia,2018-11-03,50.85,OECD,4.2.2.2,Pending
+902,Oceania,2015-08-17,70.97,OECD,8.8.4.4,Active
+903,North America,2011-01-16,90.39,International Telecommunication Union (ITU),1.1.1.1,Pending
+904,Oceania,2018-03-12,48.47,World Bank,8.8.8.8,Active
+905,Oceania,2005-05-25,59.71,International Telecommunication Union (ITU),4.2.2.2,Active
+906,North America,2003-10-22,8.8,International Telecommunication Union (ITU),4.2.2.2,Pending
+907,North America,2023-02-08,19.89,National Statistical Office,8.8.4.4,Pending
+908,Africa,2023-09-01,96.68,National Statistical Office,4.2.2.2,Inactive
+909,Africa,2001-01-08,56.07,International Telecommunication Union (ITU),9.9.9.9,Pending
+910,Europe,2001-08-12,71.25,OECD,8.8.8.8,Pending
+911,Asia,2012-03-06,3.98,International Telecommunication Union (ITU),9.9.9.9,Pending
+912,North America,2001-09-26,92.23,UNESCO,8.8.8.8,Active
+913,Oceania,2022-12-21,30.49,International Telecommunication Union (ITU),8.8.4.4,Pending
+914,Asia,2013-04-11,48.99,International Telecommunication Union (ITU),9.9.9.9,Inactive
+915,Europe,2007-07-24,74.44,UNESCO,9.9.9.9,Pending
+916,Oceania,2010-05-27,1.84,International Telecommunication Union (ITU),8.8.4.4,Pending
+917,South America,2002-10-12,68.43,International Telecommunication Union (ITU),8.8.8.8,Pending
+918,Europe,2003-09-22,35.54,International Telecommunication Union (ITU),4.2.2.2,Pending
+919,North America,2001-03-08,30.23,National Statistical Office,9.9.9.9,Pending
+920,South America,2016-01-13,99.6,World Bank,9.9.9.9,Active
+921,South America,2002-08-28,97.86,National Statistical Office,8.8.4.4,Inactive
+922,Europe,2009-05-11,27.59,World Bank,4.2.2.2,Active
+923,North America,2002-09-15,6.2,World Bank,8.8.8.8,Inactive
+924,Oceania,2000-06-07,25.77,UNESCO,1.1.1.1,Inactive
+925,South America,2009-10-26,38.72,International Telecommunication Union (ITU),8.8.8.8,Inactive
+926,Europe,2009-12-20,100.0,International Telecommunication Union (ITU),8.8.4.4,Active
+927,Europe,2007-08-12,99.04,World Bank,9.9.9.9,Pending
+928,Oceania,2018-08-25,94.41,UNESCO,4.2.2.2,Active
+929,North America,2006-12-18,94.91,National Statistical Office,9.9.9.9,Active
+930,Europe,2007-03-01,22.56,UNESCO,8.8.4.4,Inactive
+931,Europe,2013-01-08,34.18,UNESCO,8.8.8.8,Active
+932,Europe,2017-06-21,39.28,World Bank,9.9.9.9,Pending
+933,Asia,2022-01-11,13.73,National Statistical Office,1.1.1.1,Active
+934,Africa,2000-11-13,72.99,National Statistical Office,8.8.4.4,Pending
+935,Oceania,2023-12-10,52.07,World Bank,8.8.8.8,Pending
+936,Asia,2003-04-17,67.8,National Statistical Office,4.2.2.2,Inactive
+937,Europe,2007-07-16,87.27,National Statistical Office,8.8.8.8,Active
+938,Africa,2001-03-23,68.65,International Telecommunication Union (ITU),1.1.1.1,Inactive
+939,Oceania,2008-02-02,41.73,International Telecommunication Union (ITU),9.9.9.9,Pending
+940,South America,2007-09-14,57.29,National Statistical Office,8.8.8.8,Active
+941,Oceania,2022-06-15,42.65,International Telecommunication Union (ITU),1.1.1.1,Inactive
+942,Asia,2023-02-19,31.24,National Statistical Office,1.1.1.1,Inactive
+943,Asia,2003-09-05,60.54,World Bank,1.1.1.1,Inactive
+944,Asia,2020-07-03,44.92,World Bank,8.8.4.4,Active
+945,Oceania,2018-10-02,13.18,UNESCO,8.8.4.4,Active
+946,North America,2013-11-05,65.25,World Bank,8.8.8.8,Inactive
+947,Europe,2007-05-09,58.1,National Statistical Office,8.8.8.8,Active
+948,Oceania,2010-07-23,68.4,International Telecommunication Union (ITU),8.8.8.8,Active
+949,South America,2023-06-11,20.23,International Telecommunication Union (ITU),9.9.9.9,Inactive
+950,South America,2014-05-08,13.81,World Bank,9.9.9.9,Active
+951,South America,2002-04-05,68.85,National Statistical Office,8.8.8.8,Inactive
+952,Europe,2018-02-05,89.86,OECD,4.2.2.2,Active
+953,Africa,2003-03-15,90.96,UNESCO,8.8.4.4,Active
+954,Asia,2014-06-14,43.01,National Statistical Office,8.8.4.4,Active
+955,Europe,2003-09-12,90.9,World Bank,1.1.1.1,Pending
+956,Asia,2006-08-10,77.0,OECD,8.8.8.8,Pending
+957,Europe,2014-05-28,65.62,International Telecommunication Union (ITU),9.9.9.9,Inactive
+958,Asia,2003-02-06,56.48,World Bank,1.1.1.1,Pending
+959,Europe,2021-05-27,15.8,UNESCO,8.8.4.4,Inactive
+960,Africa,2022-12-20,6.78,OECD,8.8.8.8,Active
+961,Oceania,2001-04-27,53.3,OECD,8.8.4.4,Pending
+962,South America,2010-03-03,71.94,World Bank,4.2.2.2,Inactive
+963,Asia,2022-04-12,18.41,National Statistical Office,1.1.1.1,Pending
+964,Europe,2012-09-02,83.95,World Bank,8.8.8.8,Pending
+965,Africa,2021-05-09,14.55,OECD,4.2.2.2,Inactive
+966,Africa,2005-01-13,2.95,International Telecommunication Union (ITU),4.2.2.2,Pending
+967,South America,2014-09-24,31.87,UNESCO,9.9.9.9,Inactive
+968,Europe,2017-04-04,97.29,International Telecommunication Union (ITU),8.8.8.8,Pending
+969,Oceania,2014-02-26,96.12,OECD,9.9.9.9,Active
+970,Asia,2004-02-01,30.33,International Telecommunication Union (ITU),4.2.2.2,Active
+971,Oceania,2001-04-05,74.56,National Statistical Office,8.8.8.8,Active
+972,North America,2006-07-12,82.17,World Bank,8.8.8.8,Inactive
+973,Africa,2021-11-21,63.68,OECD,8.8.8.8,Inactive
+974,Africa,2002-10-19,73.83,UNESCO,8.8.8.8,Active
+975,South America,2008-02-01,15.2,UNESCO,9.9.9.9,Inactive
+976,Europe,2002-04-21,18.79,National Statistical Office,8.8.4.4,Pending
+977,North America,2014-03-03,13.15,International Telecommunication Union (ITU),8.8.8.8,Pending
+978,North America,2010-02-02,2.62,International Telecommunication Union (ITU),1.1.1.1,Pending
+979,North America,2014-01-06,98.6,UNESCO,8.8.8.8,Pending
+980,Europe,2018-07-27,61.69,OECD,9.9.9.9,Pending
+981,Asia,2023-07-16,60.56,International Telecommunication Union (ITU),8.8.8.8,Inactive
+982,Africa,2000-07-22,61.24,OECD,8.8.4.4,Inactive
+983,Europe,2013-03-12,59.64,UNESCO,4.2.2.2,Pending
+984,North America,2006-03-09,23.09,OECD,9.9.9.9,Active
+985,Africa,2008-08-05,2.61,National Statistical Office,8.8.8.8,Inactive
+986,Africa,2001-10-20,7.95,UNESCO,8.8.8.8,Active
+987,North America,2019-04-21,77.98,OECD,8.8.8.8,Pending
+988,North America,2009-08-14,13.41,World Bank,4.2.2.2,Pending
+989,Africa,2017-08-02,84.61,National Statistical Office,8.8.8.8,Pending
+990,South America,2002-05-13,46.88,OECD,8.8.4.4,Active
+991,Oceania,2004-07-07,64.96,UNESCO,9.9.9.9,Pending
+992,Oceania,2020-09-08,18.4,OECD,9.9.9.9,Active
+993,Africa,2020-09-26,38.75,World Bank,8.8.8.8,Active
+994,Asia,2000-07-26,47.38,International Telecommunication Union (ITU),4.2.2.2,Inactive
+995,Asia,2022-06-16,16.38,OECD,9.9.9.9,Pending
+996,South America,2017-08-12,22.63,UNESCO,1.1.1.1,Pending
+997,Europe,2018-09-11,40.86,World Bank,4.2.2.2,Inactive
+998,Africa,2012-05-06,96.88,International Telecommunication Union (ITU),4.2.2.2,Active
+999,Asia,2000-06-20,92.54,OECD,8.8.8.8,Pending
+1000,Africa,2007-01-26,95.02,International Telecommunication Union (ITU),9.9.9.9,Pending
+1001,South America,2008-01-26,22.26,OECD,9.9.9.9,Inactive
+1002,North America,2015-09-12,67.13,OECD,9.9.9.9,Pending
+1003,South America,2018-04-06,20.28,National Statistical Office,9.9.9.9,Active
+1004,South America,2003-04-22,20.46,International Telecommunication Union (ITU),4.2.2.2,Pending
+1005,South America,2007-05-18,17.71,International Telecommunication Union (ITU),4.2.2.2,Pending
+1006,Asia,2023-01-25,95.47,World Bank,8.8.8.8,Inactive
+1007,South America,2007-10-28,43.93,OECD,8.8.4.4,Pending
+1008,North America,2012-06-27,61.71,OECD,8.8.8.8,Inactive
+1009,North America,2005-03-08,68.79,National Statistical Office,9.9.9.9,Active
+1010,North America,2018-06-26,86.68,International Telecommunication Union (ITU),4.2.2.2,Inactive
+1011,Europe,2023-12-12,88.76,World Bank,8.8.4.4,Inactive
+1012,South America,2018-01-23,42.76,International Telecommunication Union (ITU),4.2.2.2,Inactive
+1013,North America,2022-06-19,77.62,UNESCO,1.1.1.1,Pending
+1014,Europe,2018-03-19,60.79,World Bank,8.8.8.8,Inactive
+1015,South America,2006-08-18,82.43,UNESCO,8.8.8.8,Inactive
+1016,South America,2009-03-16,72.02,World Bank,8.8.8.8,Inactive
+1017,Africa,2001-02-02,39.42,National Statistical Office,4.2.2.2,Pending
+1018,South America,2007-10-08,93.91,OECD,8.8.8.8,Pending
+1019,Oceania,2000-09-16,57.19,International Telecommunication Union (ITU),4.2.2.2,Active
+1020,Africa,2000-06-20,53.62,World Bank,1.1.1.1,Inactive
+1021,Asia,2006-03-11,64.14,OECD,4.2.2.2,Pending
+1022,Oceania,2022-03-26,70.41,OECD,1.1.1.1,Active
+1023,Asia,2010-01-01,3.85,UNESCO,4.2.2.2,Inactive
+1024,Europe,2004-10-23,10.93,National Statistical Office,8.8.4.4,Inactive
+1025,Oceania,2004-02-28,45.69,National Statistical Office,8.8.4.4,Inactive
+1026,Africa,2016-06-03,87.78,UNESCO,9.9.9.9,Active
+1027,Asia,2011-12-22,87.78,OECD,9.9.9.9,Pending
+1028,Asia,2012-10-04,24.57,UNESCO,4.2.2.2,Active
+1029,Asia,2010-05-11,53.79,OECD,9.9.9.9,Active
+1030,South America,2004-03-24,98.38,National Statistical Office,1.1.1.1,Pending
+1031,Africa,2013-11-16,3.93,OECD,1.1.1.1,Active
+1032,Asia,2020-06-06,38.74,OECD,1.1.1.1,Active
+1033,Africa,2022-09-23,76.52,National Statistical Office,8.8.8.8,Active
+1034,North America,2019-06-08,96.26,UNESCO,8.8.8.8,Pending
+1035,North America,2021-10-27,18.99,World Bank,1.1.1.1,Active
+1036,Oceania,2005-07-10,43.96,OECD,8.8.4.4,Active
+1037,South America,2023-12-10,88.44,International Telecommunication Union (ITU),4.2.2.2,Pending
+1038,North America,2004-03-24,77.37,International Telecommunication Union (ITU),9.9.9.9,Inactive
+1039,Europe,2000-12-19,28.59,UNESCO,4.2.2.2,Pending
+1040,Africa,2012-10-02,16.65,OECD,8.8.4.4,Inactive
+1041,Asia,2005-10-11,29.44,OECD,8.8.4.4,Active
+1042,Europe,2019-04-21,91.9,World Bank,4.2.2.2,Inactive
+1043,Oceania,2018-02-16,69.0,World Bank,4.2.2.2,Pending
+1044,Europe,2004-06-24,90.37,International Telecommunication Union (ITU),1.1.1.1,Pending
+1045,Oceania,2002-04-12,46.36,International Telecommunication Union (ITU),1.1.1.1,Pending
+1046,North America,2010-03-21,64.61,International Telecommunication Union (ITU),9.9.9.9,Active
+1047,Africa,2002-12-22,9.04,International Telecommunication Union (ITU),8.8.4.4,Inactive
+1048,Oceania,2020-12-11,50.07,OECD,4.2.2.2,Inactive
+1049,Asia,2014-01-09,17.98,International Telecommunication Union (ITU),8.8.4.4,Pending
+1050,Europe,2006-04-23,58.54,World Bank,8.8.4.4,Pending
+1051,Oceania,2002-06-09,89.43,OECD,8.8.4.4,Pending
+1052,South America,2003-12-01,54.64,National Statistical Office,8.8.8.8,Pending
+1053,Oceania,2001-07-15,39.31,UNESCO,4.2.2.2,Pending
+1054,Asia,2023-07-06,32.35,World Bank,4.2.2.2,Active
+1055,North America,2013-08-13,2.49,UNESCO,1.1.1.1,Inactive
+1056,Africa,2011-09-13,45.37,National Statistical Office,8.8.8.8,Active
+1057,South America,2003-08-26,89.66,National Statistical Office,1.1.1.1,Pending
+1058,Asia,2018-11-25,89.58,International Telecommunication Union (ITU),4.2.2.2,Active
+1059,Oceania,2021-04-06,88.25,International Telecommunication Union (ITU),4.2.2.2,Pending
+1060,Asia,2014-02-26,9.02,National Statistical Office,8.8.8.8,Active
+1061,Europe,2001-05-01,32.41,OECD,9.9.9.9,Pending
+1062,Asia,2010-05-04,64.86,OECD,8.8.4.4,Inactive
+1063,Africa,2002-06-06,71.15,World Bank,1.1.1.1,Pending
+1064,Africa,2012-03-24,16.4,UNESCO,1.1.1.1,Pending
+1065,Asia,2002-09-03,73.33,OECD,1.1.1.1,Pending
+1066,Europe,2010-10-20,9.12,OECD,8.8.8.8,Inactive
+1067,South America,2015-12-01,70.62,National Statistical Office,8.8.4.4,Active
+1068,Oceania,2013-11-06,63.41,UNESCO,1.1.1.1,Pending
+1069,South America,2019-07-06,8.53,National Statistical Office,9.9.9.9,Pending
+1070,Europe,2001-02-11,70.73,UNESCO,9.9.9.9,Pending
+1071,North America,2006-04-14,72.69,National Statistical Office,4.2.2.2,Pending
+1072,Africa,2022-09-24,97.52,National Statistical Office,8.8.4.4,Pending
+1073,North America,2023-09-09,61.21,International Telecommunication Union (ITU),4.2.2.2,Active
+1074,Oceania,2021-05-10,15.99,International Telecommunication Union (ITU),4.2.2.2,Pending
+1075,Europe,2007-02-02,55.03,OECD,8.8.4.4,Inactive
+1076,Oceania,2012-10-18,4.39,International Telecommunication Union (ITU),4.2.2.2,Active
+1077,North America,2015-03-02,17.09,OECD,8.8.4.4,Pending
+1078,Europe,2011-01-14,33.52,OECD,9.9.9.9,Pending
+1079,South America,2002-05-27,87.13,UNESCO,8.8.4.4,Active
+1080,South America,2021-11-20,86.27,OECD,1.1.1.1,Active
+1081,North America,2015-04-04,16.21,OECD,8.8.8.8,Active
+1082,North America,2000-04-06,14.46,OECD,9.9.9.9,Inactive
+1083,Africa,2020-05-03,76.92,International Telecommunication Union (ITU),8.8.8.8,Active
+1084,South America,2015-02-10,5.13,International Telecommunication Union (ITU),9.9.9.9,Pending
+1085,Africa,2012-08-16,30.81,World Bank,1.1.1.1,Inactive
+1086,North America,2021-05-03,73.02,National Statistical Office,8.8.8.8,Active
+1087,Oceania,2020-09-13,96.1,UNESCO,1.1.1.1,Inactive
+1088,Europe,2005-06-13,28.88,World Bank,1.1.1.1,Inactive
+1089,South America,2011-03-15,18.07,OECD,9.9.9.9,Inactive
+1090,Europe,2001-05-15,89.85,OECD,4.2.2.2,Active
+1091,Africa,2014-05-08,96.04,World Bank,1.1.1.1,Inactive
+1092,Africa,2008-10-02,0.35,UNESCO,1.1.1.1,Active
+1093,Asia,2004-12-22,76.54,OECD,9.9.9.9,Inactive
+1094,Oceania,2003-02-22,1.22,OECD,8.8.4.4,Pending
+1095,South America,2011-09-14,49.76,International Telecommunication Union (ITU),9.9.9.9,Active
+1096,South America,2018-04-18,49.86,National Statistical Office,1.1.1.1,Pending
+1097,Africa,2001-07-27,80.75,OECD,9.9.9.9,Active
+1098,Oceania,2016-07-18,60.8,National Statistical Office,1.1.1.1,Inactive
+1099,Europe,2021-08-19,49.35,National Statistical Office,8.8.8.8,Inactive
+1100,South America,2007-08-10,21.69,National Statistical Office,8.8.4.4,Inactive
+1101,Africa,2002-07-28,65.95,OECD,8.8.8.8,Inactive
+1102,Asia,2022-01-17,45.37,OECD,8.8.8.8,Inactive
+1103,North America,2018-09-26,44.19,National Statistical Office,8.8.4.4,Active
+1104,South America,2018-11-20,60.12,World Bank,8.8.8.8,Active
+1105,Oceania,2004-02-25,0.66,National Statistical Office,4.2.2.2,Pending
+1106,North America,2014-03-06,88.22,International Telecommunication Union (ITU),8.8.8.8,Pending
+1107,Europe,2006-04-05,27.81,OECD,1.1.1.1,Pending
+1108,Asia,2001-07-03,62.86,UNESCO,8.8.4.4,Inactive
+1109,South America,2021-07-07,82.01,OECD,9.9.9.9,Active
+1110,North America,2020-03-27,20.76,National Statistical Office,1.1.1.1,Inactive
+1111,Oceania,2019-05-11,18.48,OECD,4.2.2.2,Pending
+1112,North America,2023-02-03,5.51,National Statistical Office,8.8.4.4,Pending
+1113,Africa,2012-09-13,34.9,UNESCO,8.8.8.8,Active
+1114,North America,2017-06-28,14.54,UNESCO,8.8.8.8,Inactive
+1115,Europe,2008-09-15,3.24,UNESCO,1.1.1.1,Pending
+1116,North America,2000-12-20,57.81,International Telecommunication Union (ITU),1.1.1.1,Inactive
+1117,Europe,2018-09-26,60.33,International Telecommunication Union (ITU),8.8.4.4,Active
+1118,Europe,2013-02-14,33.11,National Statistical Office,1.1.1.1,Inactive
+1119,Oceania,2004-03-19,8.77,International Telecommunication Union (ITU),1.1.1.1,Active
+1120,Africa,2018-10-25,10.89,World Bank,8.8.4.4,Pending
+1121,Asia,2003-02-19,99.37,UNESCO,1.1.1.1,Inactive
+1122,Europe,2003-05-28,16.13,UNESCO,8.8.4.4,Inactive
+1123,North America,2017-06-14,28.44,National Statistical Office,4.2.2.2,Inactive
+1124,Oceania,2008-07-21,66.09,International Telecommunication Union (ITU),1.1.1.1,Inactive
+1125,North America,2015-10-20,69.98,UNESCO,1.1.1.1,Active
+1126,Europe,2015-01-06,57.23,OECD,1.1.1.1,Active
+1127,Oceania,2008-07-05,56.22,International Telecommunication Union (ITU),8.8.8.8,Inactive
+1128,North America,2019-10-22,96.63,OECD,1.1.1.1,Pending
+1129,South America,2022-07-02,74.93,UNESCO,8.8.4.4,Active
+1130,Africa,2012-06-23,36.02,UNESCO,8.8.8.8,Inactive
+1131,North America,2007-01-24,3.58,OECD,8.8.8.8,Inactive
+1132,Africa,2015-05-12,76.85,UNESCO,1.1.1.1,Active
+1133,Europe,2000-06-27,32.28,International Telecommunication Union (ITU),9.9.9.9,Active
+1134,Europe,2009-05-09,89.75,World Bank,8.8.8.8,Inactive
+1135,Europe,2015-12-22,82.03,World Bank,8.8.4.4,Inactive
+1136,Africa,2003-04-05,75.84,World Bank,1.1.1.1,Active
+1137,North America,2009-12-15,84.33,UNESCO,8.8.4.4,Active
+1138,South America,2010-05-24,6.49,National Statistical Office,9.9.9.9,Pending
+1139,Africa,2013-10-21,47.08,International Telecommunication Union (ITU),1.1.1.1,Pending
+1140,Oceania,2002-04-15,12.2,International Telecommunication Union (ITU),8.8.4.4,Active
+1141,South America,2006-07-24,85.94,UNESCO,8.8.4.4,Inactive
+1142,North America,2015-09-28,32.92,International Telecommunication Union (ITU),1.1.1.1,Active
+1143,North America,2011-01-17,41.38,UNESCO,4.2.2.2,Inactive
+1144,Africa,2005-02-10,20.98,World Bank,4.2.2.2,Active
+1145,Asia,2022-09-13,20.91,International Telecommunication Union (ITU),9.9.9.9,Active
+1146,South America,2004-09-19,5.82,National Statistical Office,8.8.8.8,Pending
+1147,Europe,2000-03-07,57.14,UNESCO,8.8.8.8,Inactive
+1148,South America,2006-01-08,97.93,International Telecommunication Union (ITU),1.1.1.1,Active
+1149,North America,2001-08-02,52.89,OECD,1.1.1.1,Inactive
+1150,Oceania,2011-12-07,8.77,OECD,1.1.1.1,Inactive
+1151,North America,2008-06-27,72.41,National Statistical Office,1.1.1.1,Inactive
+1152,Africa,2014-09-13,60.48,National Statistical Office,4.2.2.2,Inactive
+1153,Asia,2020-02-22,78.82,OECD,9.9.9.9,Inactive
+1154,Europe,2000-04-12,70.68,UNESCO,8.8.4.4,Inactive
+1155,South America,2015-10-15,42.71,International Telecommunication Union (ITU),8.8.4.4,Active
+1156,Asia,2005-08-19,84.78,OECD,4.2.2.2,Pending
+1157,Europe,2017-06-12,25.97,National Statistical Office,9.9.9.9,Inactive
+1158,North America,2005-05-24,57.51,International Telecommunication Union (ITU),1.1.1.1,Active
+1159,Oceania,2022-02-10,62.32,UNESCO,8.8.8.8,Inactive
+1160,North America,2000-07-02,92.71,OECD,4.2.2.2,Pending
+1161,Africa,2005-10-25,61.43,National Statistical Office,4.2.2.2,Inactive
+1162,Africa,2006-04-21,49.64,OECD,1.1.1.1,Active
+1163,Oceania,2007-11-07,72.92,UNESCO,4.2.2.2,Active
+1164,South America,2008-11-14,49.77,National Statistical Office,8.8.4.4,Inactive
+1165,Asia,2016-01-28,80.8,International Telecommunication Union (ITU),1.1.1.1,Pending
+1166,Oceania,2021-01-16,88.37,OECD,8.8.4.4,Inactive
+1167,Asia,2004-11-06,23.27,International Telecommunication Union (ITU),1.1.1.1,Active
+1168,Europe,2019-01-08,29.05,World Bank,8.8.8.8,Inactive
+1169,South America,2008-10-26,19.36,UNESCO,8.8.4.4,Pending
+1170,Africa,2009-12-23,11.82,OECD,1.1.1.1,Active
+1171,South America,2020-05-14,46.49,National Statistical Office,4.2.2.2,Active
+1172,North America,2012-06-15,79.67,UNESCO,4.2.2.2,Active
+1173,Africa,2008-04-15,73.75,World Bank,9.9.9.9,Inactive
+1174,Asia,2009-11-17,20.73,National Statistical Office,1.1.1.1,Active
+1175,Africa,2019-07-19,61.53,UNESCO,8.8.8.8,Active
+1176,North America,2003-01-17,41.46,UNESCO,9.9.9.9,Inactive
+1177,Africa,2021-06-18,4.55,OECD,4.2.2.2,Inactive
+1178,Oceania,2020-10-20,34.97,World Bank,8.8.8.8,Pending
+1179,Asia,2009-05-22,80.6,OECD,1.1.1.1,Inactive
+1180,North America,2003-08-03,21.23,International Telecommunication Union (ITU),4.2.2.2,Active
+1181,Oceania,2010-05-21,64.06,National Statistical Office,9.9.9.9,Active
+1182,Europe,2010-05-09,69.0,World Bank,4.2.2.2,Pending
+1183,South America,2020-12-21,25.44,UNESCO,8.8.4.4,Active
+1184,Oceania,2009-04-05,6.78,UNESCO,9.9.9.9,Inactive
+1185,Europe,2016-04-02,30.03,International Telecommunication Union (ITU),4.2.2.2,Pending
+1186,North America,2019-07-22,55.0,UNESCO,9.9.9.9,Inactive
+1187,North America,2010-11-05,76.7,National Statistical Office,1.1.1.1,Active
+1188,North America,2023-01-21,11.38,OECD,8.8.4.4,Inactive
+1189,Asia,2015-05-09,33.33,World Bank,8.8.4.4,Inactive
+1190,North America,2013-07-13,39.6,National Statistical Office,4.2.2.2,Pending
+1191,South America,2023-01-19,56.89,International Telecommunication Union (ITU),9.9.9.9,Inactive
+1192,Asia,2022-10-27,96.01,National Statistical Office,9.9.9.9,Pending
+1193,North America,2006-06-24,83.2,International Telecommunication Union (ITU),9.9.9.9,Pending
+1194,Asia,2022-04-22,19.4,National Statistical Office,8.8.4.4,Active
+1195,South America,2017-11-26,83.38,UNESCO,4.2.2.2,Inactive
+1196,South America,2015-11-12,92.23,UNESCO,9.9.9.9,Inactive
+1197,Oceania,2016-05-28,47.91,International Telecommunication Union (ITU),4.2.2.2,Pending
+1198,Asia,2005-11-18,47.45,National Statistical Office,8.8.8.8,Pending
+1199,Africa,2005-05-04,3.56,National Statistical Office,1.1.1.1,Pending
+1200,Europe,2015-03-24,13.58,OECD,1.1.1.1,Inactive
+1201,North America,2008-12-26,15.54,OECD,1.1.1.1,Active
+1202,Europe,2017-03-22,46.06,World Bank,9.9.9.9,Active
+1203,South America,2010-11-03,86.52,UNESCO,1.1.1.1,Active
+1204,Europe,2007-06-08,89.59,International Telecommunication Union (ITU),9.9.9.9,Active
+1205,Africa,2023-05-14,46.25,UNESCO,1.1.1.1,Active
+1206,Europe,2010-06-09,81.42,National Statistical Office,8.8.4.4,Active
+1207,Oceania,2018-05-15,92.78,UNESCO,9.9.9.9,Inactive
+1208,Europe,2003-08-02,5.6,OECD,9.9.9.9,Pending
+1209,South America,2020-10-19,52.11,National Statistical Office,4.2.2.2,Active
+1210,South America,2019-02-16,56.49,UNESCO,1.1.1.1,Pending
+1211,Oceania,2006-09-04,67.82,World Bank,8.8.4.4,Active
+1212,North America,2021-07-17,55.52,OECD,8.8.4.4,Active
+1213,Asia,2009-07-02,1.87,OECD,4.2.2.2,Pending
+1214,North America,2004-03-07,57.74,UNESCO,8.8.8.8,Inactive
+1215,South America,2010-07-19,33.17,National Statistical Office,1.1.1.1,Inactive
+1216,North America,2014-03-11,91.62,National Statistical Office,8.8.8.8,Pending
+1217,Europe,2022-03-25,79.58,OECD,8.8.4.4,Pending
+1218,Europe,2002-08-11,6.62,National Statistical Office,9.9.9.9,Active
+1219,South America,2020-03-11,14.93,World Bank,4.2.2.2,Inactive
+1220,South America,2020-01-01,84.07,International Telecommunication Union (ITU),8.8.4.4,Inactive
+1221,North America,2014-05-07,33.92,National Statistical Office,1.1.1.1,Inactive
+1222,North America,2005-10-25,37.52,World Bank,4.2.2.2,Inactive
+1223,Europe,2005-08-26,53.43,National Statistical Office,8.8.8.8,Inactive
+1224,Asia,2002-03-20,16.6,OECD,9.9.9.9,Active
+1225,Oceania,2013-11-14,60.57,World Bank,4.2.2.2,Inactive
+1226,Asia,2012-07-16,18.74,OECD,4.2.2.2,Active
+1227,South America,2012-01-02,11.68,UNESCO,8.8.4.4,Pending
+1228,North America,2017-04-24,78.23,National Statistical Office,9.9.9.9,Active
+1229,Asia,2011-01-11,30.83,National Statistical Office,9.9.9.9,Pending
+1230,North America,2016-04-01,85.78,OECD,9.9.9.9,Pending
+1231,Africa,2021-01-21,70.98,National Statistical Office,9.9.9.9,Active
+1232,Europe,2023-04-08,27.15,International Telecommunication Union (ITU),9.9.9.9,Active
+1233,Oceania,2022-06-10,8.68,National Statistical Office,8.8.4.4,Inactive
+1234,North America,2004-02-13,87.7,World Bank,9.9.9.9,Active
+1235,Oceania,2016-10-10,37.16,UNESCO,8.8.4.4,Inactive
+1236,North America,2005-02-27,82.95,OECD,8.8.4.4,Pending
+1237,North America,2001-05-10,30.26,World Bank,9.9.9.9,Active
+1238,Oceania,2014-12-17,52.51,World Bank,8.8.8.8,Pending
+1239,Oceania,2019-09-11,17.5,World Bank,1.1.1.1,Inactive
+1240,Asia,2013-11-05,37.42,UNESCO,9.9.9.9,Active
+1241,North America,2010-08-12,3.74,OECD,1.1.1.1,Inactive
+1242,Africa,2006-03-26,20.21,OECD,8.8.4.4,Pending
+1243,Asia,2012-01-08,9.26,UNESCO,8.8.8.8,Active
+1244,South America,2007-12-05,50.6,International Telecommunication Union (ITU),8.8.4.4,Pending
+1245,South America,2006-12-01,79.9,World Bank,8.8.8.8,Pending
+1246,Europe,2018-09-06,90.5,OECD,8.8.4.4,Pending
+1247,Africa,2003-06-23,15.41,UNESCO,4.2.2.2,Pending
+1248,North America,2020-01-13,34.01,UNESCO,4.2.2.2,Active
+1249,Africa,2020-05-25,48.35,World Bank,4.2.2.2,Active
+1250,South America,2017-10-02,87.39,UNESCO,8.8.8.8,Pending
+1251,North America,2019-01-22,31.04,National Statistical Office,8.8.4.4,Pending
+1252,Africa,2003-11-27,32.73,World Bank,1.1.1.1,Pending
+1253,Oceania,2000-01-23,76.95,OECD,8.8.8.8,Active
+1254,Asia,2003-07-15,9.83,World Bank,8.8.8.8,Active
+1255,North America,2012-02-18,98.23,International Telecommunication Union (ITU),8.8.8.8,Active
+1256,Oceania,2008-08-23,51.61,World Bank,8.8.4.4,Active
+1257,Asia,2004-04-23,99.27,World Bank,8.8.8.8,Inactive
+1258,Africa,2021-11-01,20.52,International Telecommunication Union (ITU),4.2.2.2,Active
+1259,North America,2009-07-22,3.66,World Bank,1.1.1.1,Inactive
+1260,Europe,2003-11-17,38.76,UNESCO,8.8.4.4,Active
+1261,Europe,2008-10-20,86.48,OECD,1.1.1.1,Active
+1262,South America,2022-03-14,11.58,OECD,8.8.4.4,Inactive
+1263,Oceania,2003-09-24,31.1,National Statistical Office,8.8.4.4,Active
+1264,North America,2019-02-10,4.4,OECD,8.8.4.4,Pending
+1265,Oceania,2003-02-16,84.81,OECD,8.8.4.4,Active
+1266,Africa,2006-10-07,87.19,International Telecommunication Union (ITU),1.1.1.1,Active
+1267,Europe,2008-09-07,33.33,World Bank,4.2.2.2,Active
+1268,Oceania,2011-12-14,88.92,World Bank,1.1.1.1,Inactive
+1269,South America,2009-03-02,10.31,UNESCO,4.2.2.2,Inactive
+1270,North America,2017-08-07,76.62,World Bank,8.8.4.4,Pending
+1271,Europe,2022-08-11,74.56,International Telecommunication Union (ITU),8.8.8.8,Inactive
+1272,Oceania,2007-01-01,2.25,UNESCO,8.8.4.4,Pending
+1273,Oceania,2021-02-04,75.85,UNESCO,8.8.4.4,Pending
+1274,North America,2018-11-16,63.89,National Statistical Office,8.8.4.4,Active
+1275,South America,2004-02-25,20.98,World Bank,9.9.9.9,Active
+1276,Africa,2016-02-24,20.06,International Telecommunication Union (ITU),9.9.9.9,Inactive
+1277,South America,2023-02-09,28.66,OECD,4.2.2.2,Inactive
+1278,Africa,2020-04-15,53.23,International Telecommunication Union (ITU),8.8.8.8,Inactive
+1279,Asia,2009-05-15,77.28,International Telecommunication Union (ITU),9.9.9.9,Active
+1280,Oceania,2001-02-27,67.11,International Telecommunication Union (ITU),4.2.2.2,Pending
+1281,Oceania,2005-01-28,27.27,UNESCO,1.1.1.1,Inactive
+1282,Europe,2009-06-26,15.75,National Statistical Office,9.9.9.9,Pending
+1283,Asia,2021-06-14,11.45,UNESCO,1.1.1.1,Active
+1284,Oceania,2023-02-04,95.83,International Telecommunication Union (ITU),1.1.1.1,Inactive
+1285,Africa,2001-01-28,55.96,OECD,1.1.1.1,Active
+1286,North America,2004-11-21,10.24,UNESCO,9.9.9.9,Inactive
+1287,Africa,2005-06-12,54.25,International Telecommunication Union (ITU),1.1.1.1,Inactive
+1288,Oceania,2014-10-09,54.94,OECD,4.2.2.2,Inactive
+1289,Oceania,2023-02-12,27.11,World Bank,4.2.2.2,Inactive
+1290,Africa,2010-03-04,94.33,World Bank,4.2.2.2,Pending
+1291,North America,2012-07-15,80.4,International Telecommunication Union (ITU),9.9.9.9,Inactive
+1292,Asia,2008-07-23,57.41,National Statistical Office,9.9.9.9,Active
+1293,Oceania,2015-07-21,17.13,National Statistical Office,8.8.4.4,Inactive
+1294,Europe,2005-02-05,31.14,International Telecommunication Union (ITU),8.8.8.8,Active
+1295,Africa,2022-12-02,89.22,National Statistical Office,8.8.4.4,Active
+1296,Africa,2005-02-14,54.06,National Statistical Office,1.1.1.1,Active
+1297,Europe,2018-08-26,5.07,National Statistical Office,9.9.9.9,Active
+1298,Africa,2018-11-15,2.9,UNESCO,9.9.9.9,Active
+1299,Europe,2005-10-13,90.33,OECD,1.1.1.1,Pending
+1300,Europe,2011-10-01,5.05,International Telecommunication Union (ITU),9.9.9.9,Pending
+1301,Europe,2021-12-05,38.36,World Bank,9.9.9.9,Inactive
+1302,North America,2015-08-04,8.61,National Statistical Office,4.2.2.2,Active
+1303,Asia,2013-08-02,39.19,International Telecommunication Union (ITU),8.8.8.8,Inactive
+1304,Asia,2002-05-21,70.47,UNESCO,8.8.4.4,Inactive
+1305,South America,2010-01-23,89.13,UNESCO,1.1.1.1,Inactive
+1306,North America,2021-09-25,62.95,National Statistical Office,4.2.2.2,Pending
+1307,South America,2023-10-24,69.01,OECD,1.1.1.1,Active
+1308,Oceania,2018-04-22,44.58,World Bank,8.8.4.4,Inactive
+1309,Asia,2010-09-17,35.56,OECD,8.8.8.8,Active
+1310,Asia,2022-12-20,33.23,World Bank,9.9.9.9,Inactive
+1311,Asia,2003-07-22,19.81,World Bank,8.8.4.4,Inactive
+1312,Africa,2023-04-16,75.84,International Telecommunication Union (ITU),8.8.4.4,Inactive
+1313,South America,2011-11-22,80.93,World Bank,1.1.1.1,Inactive
+1314,North America,2020-07-05,7.85,World Bank,9.9.9.9,Inactive
+1315,South America,2017-10-02,92.28,UNESCO,9.9.9.9,Active
+1316,Oceania,2000-11-06,76.44,OECD,9.9.9.9,Active
+1317,Asia,2016-08-28,56.78,OECD,4.2.2.2,Pending
+1318,North America,2015-03-03,9.29,UNESCO,8.8.4.4,Active
+1319,South America,2015-06-08,80.24,National Statistical Office,8.8.4.4,Pending
+1320,Asia,2010-05-02,69.86,International Telecommunication Union (ITU),4.2.2.2,Pending
+1321,Asia,2016-04-18,9.73,OECD,8.8.8.8,Active
+1322,North America,2020-07-13,31.04,National Statistical Office,4.2.2.2,Inactive
+1323,Oceania,2007-02-15,64.44,UNESCO,8.8.8.8,Inactive
+1324,Europe,2014-10-15,76.65,International Telecommunication Union (ITU),1.1.1.1,Pending
+1325,North America,2002-08-15,47.05,UNESCO,1.1.1.1,Inactive
+1326,Europe,2010-02-16,94.74,National Statistical Office,8.8.4.4,Pending
+1327,Oceania,2023-11-01,14.37,OECD,4.2.2.2,Pending
+1328,Africa,2003-07-14,89.57,OECD,4.2.2.2,Pending
+1329,North America,2001-09-18,25.81,World Bank,4.2.2.2,Pending
+1330,Europe,2000-02-26,36.34,UNESCO,4.2.2.2,Inactive
+1331,Oceania,2019-10-21,18.34,World Bank,9.9.9.9,Active
+1332,South America,2009-09-18,91.73,UNESCO,9.9.9.9,Pending
+1333,Asia,2006-11-22,33.03,OECD,1.1.1.1,Inactive
+1334,Africa,2014-06-12,86.08,UNESCO,9.9.9.9,Active
+1335,North America,2001-04-28,32.48,UNESCO,8.8.8.8,Pending
+1336,Europe,2014-06-18,48.75,International Telecommunication Union (ITU),4.2.2.2,Inactive
+1337,South America,2019-10-16,6.54,National Statistical Office,9.9.9.9,Active
+1338,Europe,2022-11-12,11.29,International Telecommunication Union (ITU),1.1.1.1,Active
+1339,Oceania,2022-08-04,47.87,International Telecommunication Union (ITU),9.9.9.9,Active
+1340,North America,2003-11-08,84.58,World Bank,8.8.8.8,Pending
+1341,Oceania,2000-06-12,28.23,UNESCO,8.8.4.4,Pending
+1342,Europe,2020-05-18,34.86,National Statistical Office,4.2.2.2,Pending
+1343,North America,2016-06-23,57.47,OECD,9.9.9.9,Active
+1344,Europe,2003-01-06,50.79,UNESCO,8.8.4.4,Active
+1345,Asia,2015-03-27,40.57,UNESCO,8.8.8.8,Pending
+1346,North America,2022-12-24,71.43,International Telecommunication Union (ITU),1.1.1.1,Pending
+1347,North America,2013-02-09,10.7,National Statistical Office,8.8.8.8,Active
+1348,Africa,2019-04-07,55.61,World Bank,4.2.2.2,Active
+1349,Asia,2003-07-07,7.09,OECD,1.1.1.1,Pending
+1350,North America,2014-04-23,30.21,OECD,8.8.8.8,Inactive
+1351,South America,2010-02-25,46.1,International Telecommunication Union (ITU),4.2.2.2,Active
+1352,Europe,2013-01-21,59.05,OECD,9.9.9.9,Active
+1353,South America,2021-10-04,23.86,UNESCO,8.8.8.8,Pending
+1354,Europe,2014-08-22,24.37,UNESCO,1.1.1.1,Pending
+1355,Oceania,2018-09-05,15.9,International Telecommunication Union (ITU),1.1.1.1,Inactive
+1356,Europe,2015-01-17,48.24,World Bank,8.8.8.8,Inactive
+1357,Africa,2023-01-18,6.61,UNESCO,9.9.9.9,Pending
+1358,Oceania,2013-10-16,20.82,World Bank,8.8.4.4,Inactive
+1359,North America,2016-03-23,69.41,World Bank,1.1.1.1,Active
+1360,Europe,2018-03-24,43.11,OECD,1.1.1.1,Pending
+1361,Africa,2004-02-13,98.02,UNESCO,8.8.4.4,Pending
+1362,South America,2021-10-20,56.72,OECD,4.2.2.2,Active
+1363,Oceania,2010-09-13,34.22,International Telecommunication Union (ITU),8.8.8.8,Active
+1364,Oceania,2013-10-23,69.41,UNESCO,9.9.9.9,Active
+1365,Africa,2007-05-13,17.31,International Telecommunication Union (ITU),8.8.8.8,Active
+1366,South America,2010-05-15,66.96,OECD,8.8.4.4,Inactive
+1367,Oceania,2004-03-14,73.94,OECD,4.2.2.2,Pending
+1368,North America,2019-12-24,71.19,OECD,8.8.8.8,Pending
+1369,Europe,2016-05-27,83.67,UNESCO,1.1.1.1,Inactive
+1370,Asia,2022-09-28,11.43,OECD,8.8.4.4,Pending
+1371,South America,2010-12-24,59.61,International Telecommunication Union (ITU),9.9.9.9,Inactive
+1372,Europe,2017-11-07,32.54,World Bank,9.9.9.9,Inactive
+1373,Asia,2006-04-20,9.77,UNESCO,1.1.1.1,Inactive
+1374,Oceania,2022-05-22,44.52,National Statistical Office,8.8.8.8,Pending
+1375,Asia,2011-11-05,30.8,International Telecommunication Union (ITU),1.1.1.1,Pending
+1376,South America,2022-11-06,40.58,UNESCO,4.2.2.2,Active
+1377,Europe,2016-09-23,59.83,OECD,9.9.9.9,Inactive
+1378,Oceania,2020-06-23,68.55,National Statistical Office,9.9.9.9,Active
+1379,Oceania,2003-06-18,59.64,National Statistical Office,8.8.8.8,Inactive
+1380,Oceania,2015-10-19,81.99,UNESCO,9.9.9.9,Inactive
+1381,Oceania,2021-12-14,32.74,OECD,1.1.1.1,Pending
+1382,Asia,2021-12-27,64.5,International Telecommunication Union (ITU),1.1.1.1,Pending
+1383,Oceania,2017-05-28,6.15,International Telecommunication Union (ITU),1.1.1.1,Active
+1384,Africa,2013-01-17,21.76,World Bank,8.8.4.4,Active
+1385,Oceania,2003-01-13,13.89,OECD,9.9.9.9,Pending
+1386,Oceania,2004-01-22,58.08,World Bank,9.9.9.9,Inactive
+1387,Africa,2001-04-09,75.5,International Telecommunication Union (ITU),1.1.1.1,Pending
+1388,Europe,2005-05-22,80.98,OECD,4.2.2.2,Active
+1389,North America,2008-03-27,75.71,World Bank,4.2.2.2,Inactive
+1390,Africa,2001-12-26,66.09,UNESCO,8.8.4.4,Active
+1391,South America,2009-04-25,45.3,UNESCO,4.2.2.2,Pending
+1392,Europe,2017-01-12,29.15,National Statistical Office,1.1.1.1,Active
+1393,Oceania,2014-02-20,61.56,International Telecommunication Union (ITU),4.2.2.2,Pending
+1394,Asia,2021-12-18,44.72,International Telecommunication Union (ITU),9.9.9.9,Active
+1395,Africa,2007-12-21,20.57,World Bank,8.8.4.4,Pending
+1396,Europe,2017-07-08,87.74,World Bank,1.1.1.1,Inactive
+1397,Europe,2016-12-10,29.97,National Statistical Office,8.8.8.8,Inactive
+1398,Oceania,2022-11-02,79.43,World Bank,1.1.1.1,Pending
+1399,North America,2012-07-14,67.96,National Statistical Office,9.9.9.9,Pending
+1400,Asia,2021-06-18,91.85,OECD,8.8.8.8,Pending
+1401,Asia,2001-01-24,93.67,UNESCO,9.9.9.9,Active
+1402,Asia,2008-04-20,71.78,OECD,4.2.2.2,Active
+1403,South America,2014-04-21,91.51,OECD,1.1.1.1,Inactive
+1404,Europe,2022-12-21,99.03,World Bank,4.2.2.2,Pending
+1405,South America,2011-10-18,58.27,UNESCO,8.8.4.4,Inactive
+1406,South America,2023-10-07,61.15,World Bank,4.2.2.2,Pending
+1407,Europe,2023-04-10,51.04,National Statistical Office,9.9.9.9,Inactive
+1408,Asia,2014-03-22,84.76,UNESCO,9.9.9.9,Inactive
+1409,Europe,2002-03-06,85.25,UNESCO,9.9.9.9,Pending
+1410,North America,2023-09-04,6.24,World Bank,4.2.2.2,Inactive
+1411,Europe,2012-01-14,90.11,International Telecommunication Union (ITU),8.8.8.8,Active
+1412,Oceania,2008-09-09,96.79,OECD,8.8.8.8,Active
+1413,Europe,2004-03-19,0.08,UNESCO,8.8.4.4,Active
+1414,Africa,2008-01-11,56.0,World Bank,9.9.9.9,Active
+1415,North America,2014-12-05,97.87,OECD,8.8.4.4,Pending
+1416,Africa,2001-03-11,10.97,OECD,8.8.4.4,Active
+1417,Asia,2019-01-25,28.22,National Statistical Office,9.9.9.9,Pending
+1418,Asia,2020-10-27,3.12,World Bank,4.2.2.2,Pending
+1419,Oceania,2021-05-16,43.17,International Telecommunication Union (ITU),1.1.1.1,Active
+1420,Oceania,2018-09-12,59.02,International Telecommunication Union (ITU),9.9.9.9,Pending
+1421,Oceania,2002-12-11,62.52,National Statistical Office,1.1.1.1,Inactive
+1422,North America,2016-04-06,71.18,National Statistical Office,1.1.1.1,Pending
+1423,South America,2016-02-26,40.6,World Bank,4.2.2.2,Pending
+1424,Europe,2016-03-14,43.52,International Telecommunication Union (ITU),9.9.9.9,Pending
+1425,Africa,2017-09-13,21.12,OECD,9.9.9.9,Pending
+1426,North America,2002-06-08,17.34,World Bank,9.9.9.9,Inactive
+1427,Africa,2006-11-11,13.91,UNESCO,1.1.1.1,Inactive
+1428,Europe,2010-06-10,55.54,World Bank,4.2.2.2,Active
+1429,South America,2006-10-17,84.33,International Telecommunication Union (ITU),8.8.8.8,Inactive
+1430,Africa,2015-09-27,36.03,OECD,9.9.9.9,Pending
+1431,North America,2020-01-04,41.72,National Statistical Office,8.8.8.8,Inactive
+1432,Europe,2021-06-15,28.85,OECD,1.1.1.1,Pending
+1433,Oceania,2007-11-20,87.27,National Statistical Office,1.1.1.1,Active
+1434,Oceania,2019-04-02,12.55,UNESCO,8.8.4.4,Active
+1435,Oceania,2021-06-13,1.16,World Bank,4.2.2.2,Active
+1436,Europe,2003-07-09,64.84,International Telecommunication Union (ITU),8.8.4.4,Active
+1437,South America,2017-12-10,14.4,UNESCO,8.8.8.8,Pending
+1438,North America,2000-09-27,88.49,World Bank,1.1.1.1,Active
+1439,Oceania,2011-09-26,65.79,National Statistical Office,9.9.9.9,Inactive
+1440,Europe,2016-08-16,97.5,International Telecommunication Union (ITU),9.9.9.9,Active
+1441,Africa,2001-05-21,13.58,International Telecommunication Union (ITU),4.2.2.2,Pending
+1442,Oceania,2006-06-17,13.72,National Statistical Office,8.8.8.8,Active
+1443,Asia,2002-02-06,80.59,OECD,8.8.4.4,Inactive
+1444,North America,2017-09-01,86.02,OECD,8.8.8.8,Active
+1445,Africa,2020-02-07,89.36,OECD,8.8.8.8,Inactive
+1446,South America,2021-11-25,69.54,International Telecommunication Union (ITU),4.2.2.2,Active
+1447,South America,2006-11-14,93.03,World Bank,8.8.4.4,Pending
+1448,Europe,2003-04-18,62.32,World Bank,9.9.9.9,Active
+1449,South America,2022-12-25,45.44,World Bank,9.9.9.9,Active
+1450,Asia,2013-11-27,42.41,UNESCO,1.1.1.1,Pending
+1451,Oceania,2002-12-22,82.01,UNESCO,8.8.4.4,Active
+1452,Africa,2004-01-15,38.47,OECD,1.1.1.1,Active
+1453,Oceania,2022-06-02,22.57,OECD,4.2.2.2,Pending
+1454,North America,2002-02-02,42.48,World Bank,8.8.8.8,Inactive
+1455,Oceania,2005-05-18,0.74,OECD,9.9.9.9,Pending
+1456,Europe,2002-10-27,49.82,World Bank,8.8.8.8,Pending
+1457,Oceania,2007-05-14,73.09,National Statistical Office,8.8.8.8,Inactive
+1458,North America,2012-08-21,71.21,World Bank,9.9.9.9,Inactive
+1459,Africa,2012-07-11,26.93,UNESCO,9.9.9.9,Active
+1460,Asia,2000-07-22,92.66,World Bank,8.8.4.4,Pending
+1461,Africa,2003-09-01,57.64,OECD,9.9.9.9,Pending
+1462,Africa,2020-12-20,3.35,World Bank,1.1.1.1,Inactive
+1463,Europe,2002-12-19,3.79,OECD,9.9.9.9,Pending
+1464,North America,2001-12-28,48.33,World Bank,8.8.8.8,Active
+1465,Africa,2002-06-17,36.86,International Telecommunication Union (ITU),8.8.8.8,Inactive
+1466,Africa,2003-05-26,58.03,UNESCO,8.8.4.4,Pending
+1467,Asia,2021-05-20,96.17,UNESCO,8.8.8.8,Inactive
+1468,South America,2002-05-25,8.01,World Bank,1.1.1.1,Inactive
+1469,Asia,2014-07-13,73.02,National Statistical Office,8.8.4.4,Active
+1470,North America,2021-01-16,52.64,OECD,9.9.9.9,Pending
+1471,North America,2005-09-08,85.94,World Bank,9.9.9.9,Active
+1472,Europe,2004-12-13,75.06,UNESCO,9.9.9.9,Inactive
+1473,Oceania,2017-05-21,27.94,National Statistical Office,8.8.8.8,Active
+1474,Oceania,2004-05-22,51.69,OECD,8.8.8.8,Pending
+1475,Oceania,2023-11-12,52.34,International Telecommunication Union (ITU),4.2.2.2,Inactive
+1476,South America,2000-09-28,61.01,International Telecommunication Union (ITU),1.1.1.1,Active
+1477,North America,2017-03-04,24.52,OECD,9.9.9.9,Inactive
+1478,South America,2001-01-19,63.07,World Bank,1.1.1.1,Active
+1479,Oceania,2019-07-18,66.37,UNESCO,9.9.9.9,Pending
+1480,Oceania,2017-02-10,66.87,OECD,8.8.4.4,Pending
+1481,Asia,2006-12-24,68.41,World Bank,1.1.1.1,Pending
+1482,North America,2023-06-07,53.92,OECD,1.1.1.1,Active
+1483,Oceania,2013-11-28,57.96,OECD,8.8.8.8,Pending
+1484,Africa,2016-03-06,61.3,National Statistical Office,4.2.2.2,Pending
+1485,North America,2005-04-20,90.36,UNESCO,8.8.8.8,Pending
+1486,South America,2008-04-04,53.5,International Telecommunication Union (ITU),1.1.1.1,Inactive
+1487,North America,2005-11-26,1.08,International Telecommunication Union (ITU),8.8.4.4,Pending
+1488,Europe,2018-01-28,45.4,National Statistical Office,8.8.8.8,Inactive
+1489,Africa,2017-08-21,90.61,International Telecommunication Union (ITU),4.2.2.2,Pending
+1490,Oceania,2017-02-10,57.4,International Telecommunication Union (ITU),9.9.9.9,Pending
+1491,Europe,2021-02-09,33.15,UNESCO,1.1.1.1,Pending
+1492,Asia,2003-04-24,35.29,World Bank,8.8.8.8,Pending
+1493,North America,2018-08-11,97.78,OECD,8.8.8.8,Active
+1494,North America,2011-03-22,29.46,UNESCO,8.8.4.4,Inactive
+1495,Asia,2020-04-04,16.75,National Statistical Office,1.1.1.1,Active
+1496,Europe,2009-10-03,69.51,National Statistical Office,9.9.9.9,Inactive
+1497,Africa,2006-06-16,59.76,International Telecommunication Union (ITU),8.8.4.4,Inactive
+1498,Oceania,2014-06-20,30.41,International Telecommunication Union (ITU),1.1.1.1,Active
+1499,Europe,2021-05-23,78.5,UNESCO,1.1.1.1,Pending
+1500,South America,2018-03-19,26.04,National Statistical Office,8.8.8.8,Pending
